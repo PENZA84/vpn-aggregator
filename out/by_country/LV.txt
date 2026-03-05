@@ -5,6 +5,6 @@ vless://0fbf867a-812b-4c0b-89cd-01bcf2e4039a@46.32.186.65:8443?security=reality&
 vless://13a894b0-e414-5459-a0fa-9309209c386b@185.113.139.103:443?source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=185.113.139.103&country=LV&asn=41745&asn_name=Baykov Ilya Sergeevich
 vless://14818654-7689-453a-9a1f-4c72f89782d5@94.131.104.225:2040?source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=94.131.104.225&country=LV&asn=209847&asn_name=WorkTitans B.V.#>>@oneclickvpnkeys::LV
 vless://14818654-7689-453a-9a1f-4c72f89782d5@94.131.104.229:2040?source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=94.131.104.229&country=LV&asn=209847&asn_name=WorkTitans B.V.#>>@oneclickvpnkeys::LV
-vless://14818654-7689-453a-9a1f-4c72f89782d5@riga-node.genadata.online:2040?source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=94.131.104.225&country=LV&asn=209847&asn_name=WorkTitans B.V.#>>@oneclickvpnkeys::LV
+vless://14818654-7689-453a-9a1f-4c72f89782d5@riga-node.genadata.online:2040?source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=94.131.104.229&country=LV&asn=209847&asn_name=WorkTitans B.V.#>>@oneclickvpnkeys::LV
 vless://20fda433-1864-433b-b3dd-8f119fe4cafd@195.135.254.75:443?source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=195.135.254.75&country=LV&asn=42532&asn_name=SIA VEESP
 vless://20fda433-1864-433b-b3dd-8f119fe4cafd@77.73.71.103:443?source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=77.73.71.103&country=LV&asn=42532&asn_name=SIA VEESP
