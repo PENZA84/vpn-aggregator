@@ -2,45 +2,45 @@
 Total IPs looked up: 5000
 
 ## Top countries
-- XX: 2160
-- US: 629
-- DE: 615
-- NL: 214
-- RU: 173
-- FR: 163
-- IR: 150
-- GB: 96
-- FI: 90
-- HK: 53
-- SG: 51
-- SE: 44
+- XX: 2164
+- US: 630
+- DE: 600
+- NL: 216
+- RU: 177
+- FR: 158
+- IR: 147
+- FI: 101
+- GB: 97
+- SG: 49
+- HK: 49
+- SE: 43
 - CA: 39
-- AE: 33
-- AT: 32
-- KR: 31
-- TR: 26
+- AE: 32
+- AT: 30
+- KR: 29
+- TR: 25
+- CY: 24
 - LT: 24
-- LV: 23
-- MD: 23
+- MD: 24
 
 ## Top ASNs
-- AS13335 Cloudflare, Inc.: 1458
-- AS209242 Cloudflare London, LLC: 375
-- AS24940 Hetzner Online GmbH: 348
-- AS54113 Fastly, Inc.: 225
-- AS16509 Amazon.com, Inc.: 125
-- AS16276 OVH SAS: 119
-- AS209847 WorkTitans B.V.: 81
-- AS14061 DigitalOcean, LLC: 70
-- AS63949 Akamai Connected Cloud: 55
-- AS31898 Oracle Corporation: 50
+- AS13335 Cloudflare, Inc.: 1467
+- AS209242 Cloudflare London, LLC: 384
+- AS24940 Hetzner Online GmbH: 350
+- AS54113 Fastly, Inc.: 234
+- AS16509 Amazon.com, Inc.: 124
+- AS16276 OVH SAS: 115
+- AS209847 WorkTitans B.V.: 87
+- AS14061 DigitalOcean, LLC: 74
+- AS63949 Akamai Connected Cloud: 58
+- AS31898 Oracle Corporation: 51
 - AS14197 HEALTH MARKET SCIENCE: 48
-- AS28753 Leaseweb Deutschland GmbH: 41
-- AS210644 Aeza International Ltd: 39
-- AS47764 LLC VK: 39
-- AS200350 Yandex.Cloud LLC: 35
-- AS17289 ULTIMATE SOFTWARE GROUP: 31
-- AS215540 Global Connectivity Solutions Llp: 28
-- AS12876 Scaleway S.a.s.: 22
+- AS28753 Leaseweb Deutschland GmbH: 39
+- AS47764 LLC VK: 38
+- AS200350 Yandex.Cloud LLC: 38
+- AS210644 Aeza International Ltd: 33
+- AS215540 Global Connectivity Solutions Llp: 31
+- AS12876 Scaleway S.a.s.: 23
+- AS17289 ULTIMATE SOFTWARE GROUP: 22
 - AS29085 Porsche Informatik Gesellschaft m.b.H: 21
-- AS56971 Cgi Global Limited: 19
+- AS45102 Alibaba US Technology Co., Ltd.: 21
