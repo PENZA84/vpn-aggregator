@@ -2,7 +2,7 @@ name: Pipeline Report
 
 on:
   schedule:
-    - cron: '0 2 1 * *'  # раз в месяц, 1-го числа в 02:00 UTC
+    - cron: '0 2 * * 0'  # раз в неделю, воскресенье 02:00 UTC
   workflow_dispatch:
 
 jobs:
