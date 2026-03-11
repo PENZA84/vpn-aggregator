@@ -10,13 +10,13 @@ VPN pipeline под CI (боевой с GeoIP):
   6. profile      — строим профили по источникам и провайдерам
   7. repack       — генерим сабы в out/ по отфильтрованным нодам
   8. build_subs   — собираем EU-подписки и короткие ссылки в out/subscriptions_list.txt
-  9. status       — пишем краткий статус и GeoIP-сводку в out/status.txt
+  9. report       — собираем markdown-отчёт в sources_meta/pipeline_report.md
+  10. status      — пишем краткий статус и GeoIP-сводку в out/status.txt
 """
 
 from __future__ import annotations
 
 import datetime
-import os
 from collections import Counter
 from pathlib import Path
 from typing import List, Tuple
@@ -29,6 +29,7 @@ from scripts.enricher import Enricher, EnricherConfig
 from scripts.filters import NodeFilter
 from scripts.profiler import Profiler
 from scripts.repacker import Repacker
+from scripts.reporter import Reporter  # <-- добавили
 
 SOURCES_RAW_DIR = Path("sources_raw")
 OUT_DIR = Path("out")
@@ -51,7 +52,7 @@ def load_config(path: str = "config.yaml") -> dict:
 
 
 def ingest_sources(cfg: dict) -> None:
-    print("\n[1/9] Ingesting sources...", flush=True)
+    print("\n[1/10] Ingesting sources...", flush=True)
     SOURCES_RAW_DIR.mkdir(parents=True, exist_ok=True)
 
     sources_cfg = cfg.get("sources", {}) or {}
@@ -94,7 +95,7 @@ def ingest_sources(cfg: dict) -> None:
 
 
 def parse_sources(parser: ConfigParser) -> List[VPNNode]:
-    print("\n[2/9] Parsing & normalising...", flush=True)
+    print("\n[2/10] Parsing & normalising...", flush=True)
     if not SOURCES_RAW_DIR.exists():
         print("    sources_raw/ does not exist, nothing to parse", flush=True)
         return []
@@ -123,7 +124,7 @@ def parse_sources(parser: ConfigParser) -> List[VPNNode]:
 
 
 def enrich_nodes_dns_geoip(nodes: List[VPNNode]) -> Tuple[int, int]:
-    print("\n[3/9] Enriching nodes (DNS + GeoIP)...", flush=True)
+    print("\n[3/10] Enriching nodes (DNS + GeoIP)...", flush=True)
     if not nodes:
         print("    no nodes to enrich", flush=True)
         return 0, 0
@@ -152,7 +153,7 @@ def enrich_nodes_dns_geoip(nodes: List[VPNNode]) -> Tuple[int, int]:
 
 
 def apply_filters(cfg: dict, nodes: List[VPNNode]) -> Tuple[List[VPNNode], dict]:
-    print("\n[4/9] Applying filters...", flush=True)
+    print("\n[4/10] Applying filters...", flush=True)
     if not nodes:
         print("    no nodes to filter", flush=True)
         return nodes, {
@@ -185,7 +186,7 @@ def apply_filters(cfg: dict, nodes: List[VPNNode]) -> Tuple[List[VPNNode], dict]
 
 
 def build_profiles(cfg: dict, nodes: List[VPNNode]) -> dict:
-    print("\n[5/9] Building profiles (sources + providers)...", flush=True)
+    print("\n[5/10] Building profiles (sources + providers)...", flush=True)
     if not nodes:
         print("    no nodes to profile", flush=True)
         return {"by_source": {}, "by_provider": {}}
@@ -215,7 +216,7 @@ def build_profiles(cfg: dict, nodes: List[VPNNode]) -> dict:
 
 
 def repack_outputs(cfg: dict, nodes: List[VPNNode]) -> None:
-    print("\n[6/9] Repacking & generating outputs...", flush=True)
+    print("\n[6/10] Repacking & generating outputs...", flush=True)
     if not nodes:
         print("    no nodes to repack", flush=True)
         return
@@ -233,10 +234,10 @@ def build_eu_subscriptions() -> None:
     try:
         from build_eu_subscriptions_list import main as build_eu_subs_main
     except ImportError as e:
-        print(f"\n[7/9] build_eu_subscriptions_list.py not found or import error: {e}", flush=True)
+        print("\n[7/10] build_eu_subscriptions_list.py not found or import error: {e}", flush=True)
         return
 
-    print("\n[7/9] Building EU subscriptions list...", flush=True)
+    print("\n[7/10] Building EU subscriptions list...", flush=True)
     try:
         rc = build_eu_subs_main()
         print(f"    → build_eu_subscriptions_list finished with code {rc}", flush=True)
@@ -294,12 +295,12 @@ def write_status(
         f"Top ASNs: {top_asn}\n",
         encoding="utf-8",
     )
-    print("\n[9/9] wrote", status_file, flush=True)
+    print("\n[10/10] wrote", status_file, flush=True)
 
 
 def main() -> None:
     print(
-        ">>> pipeline.py started (config + ingest + parse + enrich-geoip + filter + profile + repack + build_subs + status)",
+        ">>> pipeline.py started (config + ingest + parse + enrich-geoip + filter + profile + repack + build_subs + report + status)",
         flush=True,
     )
 
@@ -316,13 +317,24 @@ def main() -> None:
     nodes_after = len(nodes_filtered)
 
     profiles = build_profiles(cfg, nodes_filtered)
-    sources_count = len(profiles.get("by_source", {}))
-    providers_count = len(profiles.get("by_provider", {}))
+    sources_profiles = profiles.get("by_source", {}) or {}
+    sources_count = len(sources_profiles)
+    providers_count = len(profiles.get("by_provider", {}) or {})
 
     repack_outputs(cfg, nodes_filtered)
 
-    # новый шаг: собираем EU-подписки и subscriptions_list.txt
+    # шаг 8: собираем EU-подписки и subscriptions_list.txt
     build_eu_subscriptions()
+
+    # шаг 9: markdown-отчёт + список лучших источников
+    print("\n[9/10] Generating pipeline report...", flush=True)
+    reporter = Reporter()
+    reporter.generate(
+        nodes_raw=nodes_before,
+        nodes_final=nodes_filtered,
+        filter_stats=stats,
+        source_profiles=sources_profiles,
+    )
 
     top_countries, top_asn = collect_geoip_summary(nodes_filtered)
 
