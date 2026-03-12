@@ -1,2 +1,1 @@
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@45.85.119.251:8880?allowInsecure=0&sni=🔒&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=45.85.119.251&country=RO&asn=209242&asn_name=Cloudflare London, LLC
-vless://01973bf7-048a-4dc6-a82b-2fa3be7046a5@45.85.119.44:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=dagh.mojavadd.space&sni=dagh.mojavadd.space&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=45.85.119.44&country=RO&asn=209242&asn_name=Cloudflare London, LLC#@ConfigV2RayNG
