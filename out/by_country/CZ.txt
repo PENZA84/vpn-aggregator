@@ -1,1 +1,1 @@
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@195.85.23.251:8880?source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=195.85.23.251&country=CZ&asn=209242&asn_name=Cloudflare London, LLC
+vless://4c67a898-2de1-49b4-c35d-43b65ab63bf7@s2.skullvpn.xyz:443?path=downloader/52915&security=tls&encryption=none&host=words.skullvpn.xyz&type=ws&sni=words.skullvpn.xyz&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=46.8.8.220&country=CZ&asn=60592&asn_name=Gransy s.r.o.#a57بزنید
