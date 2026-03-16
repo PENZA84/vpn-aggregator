@@ -1,9 +1,9 @@
-Last run: 2026-03-16T02:57:00.918109Z
-Parsed nodes: 73242
-With IP (after enrich): 2901
-With country (after GeoIP): 2901
-After filters: 23483
-Source profiles: 31
-Provider profiles: 31
-Top countries: XX:22853, DE:199, NL:115, FI:66, FR:58
-Top ASNs: AS24940 Hetzner Online GmbH:62, AS209847 WorkTitans B.V.:58, AS16276 OVH SAS:40, AS215730 H2nexus Ltd:39, AS16509 Amazon.com, Inc.:37
+Last run: 2026-03-16T07:30:29.798242Z
+Parsed nodes: 91698
+With IP (after enrich): 2719
+With country (after GeoIP): 2719
+After filters: 32005
+Source profiles: 29
+Provider profiles: 29
+Top countries: XX:31594, DE:193, FR:69, NL:45, FI:31
+Top ASNs: AS24940 Hetzner Online GmbH:115, AS16509 Amazon.com, Inc.:72, AS209242 Cloudflare London, LLC:20, AS210644 Aeza International Ltd:17, AS14061 DigitalOcean, LLC:12
