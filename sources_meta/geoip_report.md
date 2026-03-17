@@ -2,45 +2,45 @@
 Total IPs looked up: 5000
 
 ## Top countries
-- XX: 1632
-- RU: 1157
-- DE: 514
-- US: 271
-- IR: 206
-- NL: 204
-- FR: 177
-- FI: 114
-- SE: 106
-- GB: 67
-- CY: 62
-- MD: 48
-- PL: 39
-- LV: 34
-- KR: 33
-- SG: 29
-- AT: 24
-- TR: 24
-- JP: 23
-- HU: 19
+- XX: 2180
+- DE: 579
+- US: 553
+- NL: 238
+- RU: 226
+- FR: 173
+- IR: 163
+- GB: 92
+- FI: 91
+- HK: 54
+- SG: 47
+- SE: 40
+- CA: 36
+- AT: 33
+- AE: 32
+- LV: 27
+- KR: 27
+- TR: 25
+- MD: 24
+- LT: 23
 
 ## Top ASNs
-- AS13335 Cloudflare, Inc.: 879
-- AS200350 Yandex.Cloud LLC: 536
-- AS47764 LLC VK: 482
-- AS24940 Hetzner Online GmbH: 231
-- AS16276 OVH SAS: 184
-- AS209847 WorkTitans B.V.: 152
-- AS16509 Amazon.com, Inc.: 150
-- AS54113 Fastly, Inc.: 82
-- AS209242 Cloudflare London, LLC: 68
-- AS63949 Akamai Connected Cloud: 66
-- AS14061 DigitalOcean, LLC: 58
-- AS215730 H2nexus Ltd: 49
-- AS215540 Global Connectivity Solutions Llp: 47
-- AS210644 Aeza International Ltd: 37
-- AS9123 Jsc timeweb: 34
-- AS57043 Hostkey B.v.: 25
-- AS20473 The Constant Company, LLC: 23
-- AS216071 Servers Tech Fzco: 20
-- AS31898 Oracle Corporation: 20
-- AS60077 Asre Dadeha Asiatech: 19
+- AS13335 Cloudflare, Inc.: 1471
+- AS209242 Cloudflare London, LLC: 371
+- AS24940 Hetzner Online GmbH: 333
+- AS54113 Fastly, Inc.: 202
+- AS16276 OVH SAS: 123
+- AS16509 Amazon.com, Inc.: 114
+- AS209847 WorkTitans B.V.: 82
+- AS14061 DigitalOcean, LLC: 71
+- AS200350 Yandex.Cloud LLC: 60
+- AS47764 LLC VK: 54
+- AS63949 Akamai Connected Cloud: 52
+- AS210644 Aeza International Ltd: 44
+- AS14197 HEALTH MARKET SCIENCE: 44
+- AS28753 Leaseweb Deutschland GmbH: 39
+- AS31898 Oracle Corporation: 35
+- AS215540 Global Connectivity Solutions Llp: 28
+- AS12876 Scaleway S.a.s.: 22
+- AS45102 Alibaba US Technology Co., Ltd.: 22
+- AS215730 H2nexus Ltd: 20
+- AS29085 Porsche Informatik Gesellschaft m.b.H: 20
