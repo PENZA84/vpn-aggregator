@@ -2,45 +2,45 @@
 Total IPs looked up: 5000
 
 ## Top countries
-- XX: 2178
-- DE: 603
-- US: 527
-- NL: 229
-- IR: 208
-- RU: 185
-- FR: 178
-- GB: 88
-- FI: 76
-- HK: 55
-- SG: 53
-- AE: 35
-- SE: 34
-- CA: 33
-- AT: 30
-- KR: 30
-- TR: 29
-- MD: 29
-- CY: 24
-- LV: 24
+- XX: 2220
+- DE: 612
+- US: 558
+- NL: 237
+- FR: 167
+- RU: 156
+- IR: 145
+- GB: 99
+- FI: 86
+- HK: 50
+- SG: 47
+- SE: 46
+- KR: 36
+- CA: 35
+- AT: 32
+- TR: 27
+- JP: 26
+- AE: 26
+- LT: 24
+- CY: 22
 
 ## Top ASNs
-- AS13335 Cloudflare, Inc.: 1364
-- AS209242 Cloudflare London, LLC: 366
-- AS24940 Hetzner Online GmbH: 320
-- AS54113 Fastly, Inc.: 205
-- AS16276 OVH SAS: 141
-- AS16509 Amazon.com, Inc.: 132
-- AS209847 WorkTitans B.V.: 80
-- AS14061 DigitalOcean, LLC: 69
-- AS31898 Oracle Corporation: 41
-- AS14197 HEALTH MARKET SCIENCE: 41
-- AS200350 Yandex.Cloud LLC: 39
-- AS210644 Aeza International Ltd: 33
-- AS63949 Akamai Connected Cloud: 32
-- AS47764 LLC VK: 31
-- AS28753 Leaseweb Deutschland GmbH: 28
-- AS215540 Global Connectivity Solutions Llp: 27
-- AS9123 Jsc timeweb: 24
-- AS198154 Pars Abr Toseeh Ertebatat LTD: 24
-- AS12876 Scaleway S.a.s.: 21
-- AS205585 Noyan Abr Arvan Co. ( Private Joint Stock): 21
+- AS13335 Cloudflare, Inc.: 1510
+- AS209242 Cloudflare London, LLC: 414
+- AS24940 Hetzner Online GmbH: 361
+- AS54113 Fastly, Inc.: 192
+- AS16276 OVH SAS: 130
+- AS16509 Amazon.com, Inc.: 95
+- AS209847 WorkTitans B.V.: 85
+- AS14061 DigitalOcean, LLC: 75
+- AS31898 Oracle Corporation: 50
+- AS14197 HEALTH MARKET SCIENCE: 46
+- AS210644 Aeza International Ltd: 37
+- AS28753 Leaseweb Deutschland GmbH: 36
+- AS215540 Global Connectivity Solutions Llp: 29
+- AS63949 Akamai Connected Cloud: 28
+- AS12876 Scaleway S.a.s.: 23
+- AS205585 Noyan Abr Arvan Co. ( Private Joint Stock): 22
+- AS29085 Porsche Informatik Gesellschaft m.b.H: 21
+- AS45102 Alibaba US Technology Co., Ltd.: 19
+- AS17561 LARUS Limited: 19
+- AS200350 Yandex.Cloud LLC: 19
