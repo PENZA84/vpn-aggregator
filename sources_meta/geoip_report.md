@@ -2,45 +2,45 @@
 Total IPs looked up: 5000
 
 ## Top countries
-- XX: 2220
-- DE: 612
-- US: 558
-- NL: 237
-- FR: 167
-- RU: 156
-- IR: 145
-- GB: 99
-- FI: 86
+- XX: 2228
+- DE: 617
+- US: 560
+- NL: 240
+- FR: 165
+- IR: 146
+- RU: 138
+- GB: 103
+- FI: 88
 - HK: 50
-- SG: 47
-- SE: 46
+- SE: 47
+- SG: 46
 - KR: 36
 - CA: 35
-- AT: 32
-- TR: 27
-- JP: 26
-- AE: 26
+- AT: 31
+- AE: 28
+- JP: 25
 - LT: 24
-- CY: 22
+- LV: 23
+- TR: 23
 
 ## Top ASNs
-- AS13335 Cloudflare, Inc.: 1510
-- AS209242 Cloudflare London, LLC: 414
-- AS24940 Hetzner Online GmbH: 361
-- AS54113 Fastly, Inc.: 192
-- AS16276 OVH SAS: 130
-- AS16509 Amazon.com, Inc.: 95
-- AS209847 WorkTitans B.V.: 85
-- AS14061 DigitalOcean, LLC: 75
-- AS31898 Oracle Corporation: 50
+- AS13335 Cloudflare, Inc.: 1512
+- AS209242 Cloudflare London, LLC: 405
+- AS24940 Hetzner Online GmbH: 367
+- AS54113 Fastly, Inc.: 193
+- AS16276 OVH SAS: 132
+- AS16509 Amazon.com, Inc.: 96
+- AS209847 WorkTitans B.V.: 84
+- AS14061 DigitalOcean, LLC: 77
+- AS31898 Oracle Corporation: 51
 - AS14197 HEALTH MARKET SCIENCE: 46
-- AS210644 Aeza International Ltd: 37
+- AS210644 Aeza International Ltd: 40
 - AS28753 Leaseweb Deutschland GmbH: 36
-- AS215540 Global Connectivity Solutions Llp: 29
 - AS63949 Akamai Connected Cloud: 28
+- AS215540 Global Connectivity Solutions Llp: 25
 - AS12876 Scaleway S.a.s.: 23
 - AS205585 Noyan Abr Arvan Co. ( Private Joint Stock): 22
-- AS29085 Porsche Informatik Gesellschaft m.b.H: 21
-- AS45102 Alibaba US Technology Co., Ltd.: 19
+- AS29085 Porsche Informatik Gesellschaft m.b.H: 20
 - AS17561 LARUS Limited: 19
-- AS200350 Yandex.Cloud LLC: 19
+- AS45102 Alibaba US Technology Co., Ltd.: 18
+- AS213230 Hetzner Online GmbH: 18
