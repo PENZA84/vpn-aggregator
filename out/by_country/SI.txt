@@ -1,2 +1,1 @@
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@92.53.188.251:8880?source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=92.53.188.251&country=SI&asn=209242&asn_name=Cloudflare London, LLC
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@92.53.189.251:8880?source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=92.53.189.251&country=SI&asn=209242&asn_name=Cloudflare London, LLC
+vless://43158d39-8066-4df4-b74e-2ab29f207e0a@92.60.74.56:80?type=ws&host=29.alij47649.workers.dev&path=/?ed=2048&security=none&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=92.60.74.56&country=SI&asn=209242&asn_name=Cloudflare London, LLC#>>@configshub2::US

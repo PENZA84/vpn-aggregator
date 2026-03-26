@@ -1,2 +1,3 @@
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.76.133.122:22222?security=tls&sni=🔒&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=54.76.133.122&country=IE&asn=16509&asn_name=Amazon.com, Inc.
 vless://0c49f1d8-3d34-473b-bebf-9d9a4811db62@45.141.234.196:51472?source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=45.141.234.196&country=IE&asn=215540&asn_name=Global Connectivity Solutions Llp#🇮🇪 TCP-Reality | @v2ray_configs_pool
+vless://309c4bd0-7430-b8aa-2238-1075e9e29370@34.252.80.15:27775?encryption=none&type=tcp&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=34.252.80.15&country=IE&asn=16509&asn_name=Amazon.com, Inc.#Server 2 Group 1
+vless://309c4bd0-7430-b8aa-2238-1075e9e29370@54.216.127.183:27775?encryption=none&type=tcp&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=54.216.127.183&country=IE&asn=16509&asn_name=Amazon.com, Inc.#Server 3 Group 1
