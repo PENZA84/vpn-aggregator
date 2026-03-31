@@ -1,3 +1,2 @@
 vless://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443?source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=95.164.6.214&country=BG&asn=209847&asn_name=WorkTitans B.V.
 vless://04cf10a3-2268-4c8c-a756-e0953ee9410d@46.253.4.214:8080?encryption=none&security=none&type=tcp&headerType=http&host=box.ponisha.ir&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=46.253.4.214&country=BG&asn=None
-vless://05f37572-87c1-4857-b0cc-bbd84d70c2a6@45.39.241.51:443?type=ws&encryption=none&security=tls&host=45.39.241.51&path=🔒&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=45.39.241.51&country=BG&asn=209604&asn_name=2e Telekomunikasyon Ltd Sti
