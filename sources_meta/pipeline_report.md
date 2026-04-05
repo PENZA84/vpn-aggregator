@@ -1,54 +1,51 @@
 # VPN Aggregator Report
 
-- Generated at: **2026-03-29 04:40:40 UTC**
-- Raw nodes (lines before parse): **64253**
-- Final nodes after filters: **27753**
+- Generated at: **2026-04-05 04:40:03 UTC**
+- Raw nodes (lines before parse): **63053**
+- Final nodes after filters: **27643**
 
 ## Filter stats
 
-- Before: `64253`
-- Dropped as duplicates: `35143`
-- Dropped by filters: `1357`
-- After: `27753`
+- Before: `63053`
+- Dropped as duplicates: `34082`
+- Dropped by filters: `1328`
+- After: `27643`
 
 ## Sources
 
 | Source | Nodes | Unique IPs | EU share | Bad share | Avg ping | Alive ratio | Score | Type |
 |--------|-------|------------|----------|-----------|----------|-------------|-------|------|
-| `argh_v2rayauto_vless` | 11597 | 399 | 1.00 | 0.00 | - | - | 3.87 | unknown |
-| `sevcator_vless` | 7010 | 0 | 0.00 | 0.00 | - | - | 1.47 | unknown |
-| `proxy_minging_v2ray` | 3391 | 0 | 0.00 | 0.00 | - | - | 1.33 | unknown |
-| `sakha_all_valid_proxies` | 1687 | 0 | 0.00 | 0.00 | - | - | 1.19 | unknown |
-| `etoneya_1` | 667 | 0 | 0.00 | 0.00 | - | - | 1.00 | unknown |
-| `nirs_vless_sstime` | 424 | 0 | 0.00 | 0.00 | - | - | 0.91 | unknown |
-| `zieng_vless_universal` | 310 | 0 | 0.00 | 0.00 | - | - | 0.85 | unknown |
-| `igareck_white_cidr_ru_all` | 309 | 0 | 0.00 | 0.00 | - | - | 0.85 | unknown |
-| `igareck_black_ss_all_rus` | 301 | 0 | 0.00 | 0.00 | - | - | 0.84 | unknown |
-| `youfoundamin_mixed_iran` | 299 | 0 | 0.00 | 0.00 | - | - | 0.84 | unknown |
-| `ndsphonemy_speed` | 268 | 0 | 0.00 | 0.00 | - | - | 0.82 | unknown |
-| `epodonios_vmess` | 245 | 0 | 0.00 | 0.00 | - | - | 0.80 | unknown |
-| `mahdid_taheri_v2raycollector_mix2` | 234 | 0 | 0.00 | 0.00 | - | - | 0.79 | unknown |
-| `mehran_v2ray_sub` | 165 | 0 | 0.00 | 0.00 | - | - | 0.72 | unknown |
-| `igareck_vless_reality_rus_mobile_2` | 127 | 0 | 0.00 | 0.00 | - | - | 0.67 | unknown |
-| `igareck_vless_reality_rus_mobile` | 118 | 0 | 0.00 | 0.00 | - | - | 0.66 | unknown |
-| `mohamadfg_telegram_vless` | 115 | 0 | 0.00 | 0.00 | - | - | 0.65 | unknown |
-| `mrmohebi_xray_all` | 110 | 0 | 0.00 | 0.00 | - | - | 0.64 | unknown |
-| `mosifree_reality` | 108 | 0 | 0.00 | 0.00 | - | - | 0.64 | unknown |
-| `lalatina_mineral_nodes` | 67 | 0 | 0.00 | 0.00 | - | - | 0.54 | unknown |
-| `roosterkid_openproxy_v2ray_raw` | 54 | 0 | 0.00 | 0.00 | - | - | 0.50 | unknown |
-| `mahdi0024_proxycollector` | 51 | 0 | 0.00 | 0.00 | - | - | 0.49 | unknown |
-| `mahdid_taheri_v2raycollector_mix` | 24 | 0 | 0.00 | 0.00 | - | - | 0.34 | unknown |
+| `argh_v2rayauto_vless` | 11798 | 375 | 1.00 | 0.00 | - | - | 3.88 | unknown |
+| `sevcator_vless` | 7369 | 0 | 0.00 | 0.00 | - | - | 1.48 | unknown |
+| `proxy_minging_v2ray` | 3381 | 0 | 0.00 | 0.00 | - | - | 1.32 | unknown |
+| `sakha_all_valid_proxies` | 1281 | 0 | 0.00 | 0.00 | - | - | 1.13 | unknown |
+| `etoneya_1` | 872 | 0 | 0.00 | 0.00 | - | - | 1.05 | unknown |
+| `nirs_vless_sstime` | 702 | 0 | 0.00 | 0.00 | - | - | 1.01 | unknown |
+| `zieng_vless_universal` | 357 | 0 | 0.00 | 0.00 | - | - | 0.88 | unknown |
+| `youfoundamin_mixed_iran` | 320 | 0 | 0.00 | 0.00 | - | - | 0.85 | unknown |
+| `epodonios_vmess` | 268 | 0 | 0.00 | 0.00 | - | - | 0.82 | unknown |
+| `ndsphonemy_speed` | 265 | 0 | 0.00 | 0.00 | - | - | 0.82 | unknown |
+| `mehran_v2ray_sub` | 164 | 0 | 0.00 | 0.00 | - | - | 0.72 | unknown |
+| `igareck_white_cidr_ru_all` | 121 | 0 | 0.00 | 0.00 | - | - | 0.66 | unknown |
+| `mohamadfg_telegram_vless` | 117 | 0 | 0.00 | 0.00 | - | - | 0.65 | unknown |
+| `mosifree_reality` | 107 | 0 | 0.00 | 0.00 | - | - | 0.64 | unknown |
+| `igareck_vless_reality_rus_mobile` | 103 | 0 | 0.00 | 0.00 | - | - | 0.63 | unknown |
+| `mahdid_taheri_v2raycollector_mix2` | 94 | 0 | 0.00 | 0.00 | - | - | 0.61 | unknown |
+| `igareck_vless_reality_rus_mobile_2` | 86 | 0 | 0.00 | 0.00 | - | - | 0.59 | unknown |
+| `lalatina_mineral_nodes` | 65 | 0 | 0.00 | 0.00 | - | - | 0.54 | unknown |
+| `mahdi0024_proxycollector` | 55 | 0 | 0.00 | 0.00 | - | - | 0.51 | unknown |
+| `mrmohebi_xray_all` | 32 | 0 | 0.00 | 0.00 | - | - | 0.40 | unknown |
+| `roosterkid_openproxy_v2ray_raw` | 21 | 0 | 0.00 | 0.00 | - | - | 0.32 | unknown |
+| `mahdid_taheri_v2raycollector_mix` | 19 | 0 | 0.00 | 0.00 | - | - | 0.30 | unknown |
 | `kwinshadow_mix` | 17 | 0 | 0.00 | 0.00 | - | - | 0.28 | unknown |
-| `igareck_white_sni_ru_all` | 16 | 0 | 0.00 | 0.00 | - | - | 0.27 | unknown |
-| `wuqb_xray_mixed_base64` | 14 | 0 | 0.00 | 0.00 | - | - | 0.24 | unknown |
 | `shabane_kamaji_merged` | 13 | 0 | 0.00 | 0.00 | - | - | 0.23 | unknown |
-| `v2rayroot_vless` | 8 | 0 | 0.00 | 0.00 | - | - | 0.14 | unknown |
+| `wuqb_xray_mixed_base64` | 7 | 0 | 0.00 | 0.00 | - | - | 0.12 | unknown |
 
 ## Best sources (for reuse)
 
 | Rank | Source | Score | Nodes | Unique IPs | EU share | Bad share | Alive | Type |
 |------|--------|-------|-------|------------|----------|-----------|-------|------|
-| 1 | `argh_v2rayauto_vless` | 0.300 | 11597 | 399 | 1.00 | 0.00 | - | unknown |
+| 1 | `argh_v2rayauto_vless` | 0.300 | 11798 | 375 | 1.00 | 0.00 | - | unknown |
 
 ### Best source IDs
 
