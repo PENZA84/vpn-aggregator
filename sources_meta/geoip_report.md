@@ -2,45 +2,45 @@
 Total IPs looked up: 5000
 
 ## Top countries
-- XX: 2213
-- DE: 604
-- US: 561
-- NL: 241
-- FR: 194
-- IR: 157
-- RU: 145
-- GB: 108
-- FI: 89
-- SE: 47
-- SG: 47
-- HK: 43
+- XX: 2226
+- DE: 610
+- US: 560
+- NL: 236
+- FR: 198
+- IR: 158
+- RU: 139
+- GB: 106
+- FI: 84
+- SE: 51
+- SG: 46
 - CA: 35
-- AT: 33
+- AT: 32
+- LV: 31
+- HK: 31
 - AE: 30
-- LV: 26
-- TR: 26
-- CY: 25
+- TR: 25
+- CY: 24
+- LT: 23
 - PL: 23
-- LT: 22
 
 ## Top ASNs
-- AS13335 Cloudflare, Inc.: 1511
-- AS209242 Cloudflare London, LLC: 405
-- AS24940 Hetzner Online GmbH: 368
+- AS13335 Cloudflare, Inc.: 1520
+- AS209242 Cloudflare London, LLC: 412
+- AS24940 Hetzner Online GmbH: 369
 - AS54113 Fastly, Inc.: 189
-- AS16276 OVH SAS: 160
-- AS16509 Amazon.com, Inc.: 89
-- AS209847 WorkTitans B.V.: 82
-- AS14061 DigitalOcean, LLC: 77
+- AS16276 OVH SAS: 173
+- AS16509 Amazon.com, Inc.: 87
+- AS209847 WorkTitans B.V.: 78
+- AS14061 DigitalOcean, LLC: 75
 - AS14197 HEALTH MARKET SCIENCE: 47
 - AS210644 Aeza International Ltd: 39
 - AS31898 Oracle Corporation: 38
 - AS28753 Leaseweb Deutschland GmbH: 36
-- AS205585 Noyan Abr Arvan Co. ( Private Joint Stock): 34
-- AS63949 Akamai Connected Cloud: 26
-- AS12876 Scaleway S.a.s.: 26
-- AS20473 The Constant Company, LLC: 25
-- AS215540 Global Connectivity Solutions Llp: 24
-- AS62659 Q2 Software, Inc.: 24
+- AS205585 Noyan Abr Arvan Co. ( Private Joint Stock): 33
+- AS63949 Akamai Connected Cloud: 28
+- AS12876 Scaleway S.a.s.: 25
+- AS20473 The Constant Company, LLC: 23
+- AS215540 Global Connectivity Solutions Llp: 23
 - AS29085 Porsche Informatik Gesellschaft m.b.H: 21
-- AS17561 LARUS Limited: 19
+- AS42532 SIA VEESP: 19
+- AS56971 Cgi Global Limited: 19
