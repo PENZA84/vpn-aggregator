@@ -1,2 +1,1 @@
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@193.227.99.251:8880?source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=193.227.99.251&country=MT&asn=209242&asn_name=Cloudflare London, LLC
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@193.227.99.148:2096?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&host=sni.111000.v6.rocks&type=ws&sni=sni.111000.v6.rocks&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=193.227.99.148&country=MT&asn=209242&asn_name=Cloudflare London, LLC#RELAY🚩
