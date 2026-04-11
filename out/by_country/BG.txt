@@ -1,2 +1,3 @@
 vless://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443?source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=95.164.6.214&country=BG&asn=209847&asn_name=WorkTitans B.V.
 vless://04cf10a3-2268-4c8c-a756-e0953ee9410d@46.253.4.214:8080?encryption=none&security=none&type=tcp&headerType=http&host=box.ponisha.ir&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=46.253.4.214&country=BG&asn=None
+vless://2491c11c-b958-4553-96f7-1aaa7cad8320@178.215.239.245:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zTH3m7h5RrVagZ5WnwEEoJIpFhHFW0bcKKf68h7eMno&security=reality&sni=apple.com&type=tcp&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=178.215.239.245&country=BG&asn=None#🪺73@oneclickvpnkeys
