@@ -2,45 +2,45 @@
 Total IPs looked up: 5000
 
 ## Top countries
-- XX: 2216
-- DE: 593
-- US: 537
-- FR: 242
-- NL: 235
-- IR: 158
+- XX: 2215
+- DE: 589
+- US: 542
+- FR: 245
+- NL: 236
+- IR: 152
 - RU: 132
-- GB: 116
-- FI: 81
+- GB: 118
+- FI: 78
 - HK: 49
-- SG: 46
-- SE: 44
-- AT: 34
+- SG: 47
+- SE: 43
 - CA: 34
-- LV: 28
-- KR: 28
+- AT: 31
+- LV: 27
+- KR: 27
 - AE: 27
-- TR: 25
-- LT: 24
+- LT: 26
 - PL: 23
+- JP: 23
 
 ## Top ASNs
-- AS13335 Cloudflare, Inc.: 1538
-- AS209242 Cloudflare London, LLC: 408
+- AS13335 Cloudflare, Inc.: 1541
+- AS209242 Cloudflare London, LLC: 406
 - AS24940 Hetzner Online GmbH: 343
-- AS16276 OVH SAS: 240
-- AS54113 Fastly, Inc.: 177
-- AS16509 Amazon.com, Inc.: 90
-- AS209847 WorkTitans B.V.: 71
-- AS14061 DigitalOcean, LLC: 71
+- AS16276 OVH SAS: 244
+- AS54113 Fastly, Inc.: 178
+- AS16509 Amazon.com, Inc.: 94
+- AS209847 WorkTitans B.V.: 74
+- AS14061 DigitalOcean, LLC: 72
 - AS14197 HEALTH MARKET SCIENCE: 46
 - AS31898 Oracle Corporation: 45
-- AS205585 Noyan Abr Arvan Co. ( Private Joint Stock): 41
-- AS210644 Aeza International Ltd: 37
 - AS28753 Leaseweb Deutschland GmbH: 36
-- AS215540 Global Connectivity Solutions Llp: 27
-- AS63949 Akamai Connected Cloud: 25
-- AS12876 Scaleway S.a.s.: 25
+- AS210644 Aeza International Ltd: 35
+- AS205585 Noyan Abr Arvan Co. ( Private Joint Stock): 34
+- AS63949 Akamai Connected Cloud: 26
+- AS215540 Global Connectivity Solutions Llp: 23
+- AS12876 Scaleway S.a.s.: 23
 - AS29085 Porsche Informatik Gesellschaft m.b.H: 20
 - AS56971 Cgi Global Limited: 20
+- AS45102 Alibaba US Technology Co., Ltd.: 19
 - AS17561 LARUS Limited: 19
-- AS45102 Alibaba US Technology Co., Ltd.: 18
