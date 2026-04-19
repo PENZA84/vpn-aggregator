@@ -11,6 +11,7 @@ from dataclasses import dataclass
 from typing import Dict, List, Tuple
 
 from .parser import VPNNode
+from .constants import EU_COUNTRIES
 
 
 @dataclass
@@ -38,12 +39,8 @@ class NodeFilter:
         self.perf_cfg = filters_cfg.get("performance", {}) or {}
         self.asn_blacklist = set(filters_cfg.get("asn_blacklist", []) or [])
 
-        # набор EU-стран — должен быть согласован с тем, что ты считаешь EU
-        self.eu_countries = {
-            "DE", "NL", "FR", "PL", "SE", "FI", "IT", "ES", "CZ", "AT", "BE",
-            "DK", "IE", "PT", "RO", "BG", "SK", "SI", "GR", "HU", "HR", "EE",
-            "LV", "LT", "LU", "CY", "MT"
-        }
+        # Используем константу из constants.py
+        self.eu_countries = EU_COUNTRIES
 
     def apply(self, nodes: List[VPNNode]) -> Tuple[List[VPNNode], Dict]:
         """Применить dedup + geo/performance/ASN фильтры к списку нод."""

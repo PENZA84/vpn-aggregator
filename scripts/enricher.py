@@ -17,11 +17,19 @@ from typing import List, Optional
 import geoip2.database
 
 from .parser import VPNNode
+from .constants import (
+    DEFAULT_DNS_TIMEOUT,
+    DEFAULT_PING_TIMEOUT,
+    DEFAULT_MAX_NODES_PER_RUN,
+    DEFAULT_DATA_DIR,
+    GEOIP_COUNTRY_DB,
+    GEOIP_ASN_DB,
+)
 
 
 @dataclass
 class EnricherConfig:
-    dns_timeout: float = 2.0
+    dns_timeout: float = DEFAULT_DNS_TIMEOUT
 
     enable_dns: bool = True
     enable_geoip: bool = True
@@ -29,16 +37,16 @@ class EnricherConfig:
     enable_alive: bool = False
 
     # каталог и имена локальных GeoIP-баз
-    db_dir: str = "data"
-    country_db_filename: str = "GeoLite2-Country.mmdb"
-    asn_db_filename: str = "GeoLite2-ASN.mmdb"
+    db_dir: str = DEFAULT_DATA_DIR
+    country_db_filename: str = GEOIP_COUNTRY_DB
+    asn_db_filename: str = GEOIP_ASN_DB
 
     # лимит на количество нод для энричмента за один прогон
     # 0 = без лимита (по всем нодам)
-    max_nodes_per_run: int = 0
+    max_nodes_per_run: int = DEFAULT_MAX_NODES_PER_RUN
 
     # таймаут TCP-ping
-    ping_timeout: float = 1.0
+    ping_timeout: float = DEFAULT_PING_TIMEOUT
 
 
 class Enricher:

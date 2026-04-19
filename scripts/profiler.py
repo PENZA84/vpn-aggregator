@@ -38,6 +38,29 @@ from statistics import mean, median
 from typing import Dict, List, Tuple, Any, Callable
 
 from .parser import VPNNode
+from .constants import (
+    EU_COUNTRIES,
+    BAD_COUNTRIES,
+    FIRST_PARTY_ASN_CONCENTRATION,
+    FIRST_PARTY_IP_DIVERSITY,
+    AGGREGATOR_MIN_ASN_DIVERSITY,
+    AGGREGATOR_MIN_IP_DIVERSITY,
+    SCORE_WEIGHT_EU_SHARE,
+    SCORE_WEIGHT_BAD_SHARE,
+    SCORE_WEIGHT_ALIVE,
+    SCORE_WEIGHT_LOG_NODES,
+    SCORE_PENALTY_FEW_IPS_THRESHOLD,
+    SCORE_PENALTY_FEW_IPS,
+    SCORE_PENALTY_MEDIUM_IPS_THRESHOLD,
+    SCORE_PENALTY_MEDIUM_IPS,
+    WHITELIST_MIN_EU_SHARE,
+    WHITELIST_MAX_BAD_SHARE,
+    WHITELIST_MIN_ALIVE_RATIO,
+    BLACKLIST_MIN_BAD_SHARE,
+    BLACKLIST_MAX_ALIVE_RATIO,
+    LARGE_SOURCE_MIN_NODES,
+    LARGE_SOURCE_MIN_UNIQUE_IPS,
+)
 
 
 class Profiler:
@@ -59,15 +82,9 @@ class Profiler:
         geo_cfg = (self.config.get("filters") or {}).get("geo") or {}
         self.exclude_countries = set(geo_cfg.get("exclude_countries", []) or [])
 
-        # тот же набор EU-стран, что и в фильтре
-        self.eu_countries = {
-            "DE", "NL", "FR", "PL", "SE", "FI", "IT", "ES", "CZ", "AT", "BE",
-            "DK", "IE", "PT", "RO", "BG", "SK", "SI", "GR", "HU", "HR", "EE",
-            "LV", "LT", "LU", "CY", "MT",
-        }
-
-        # "плохие" страны для bad_country_share
-        self.bad_countries = {"RU", "BY", "IR", "CN"}
+        # Используем константы
+        self.eu_countries = EU_COUNTRIES
+        self.bad_countries = BAD_COUNTRIES
 
     # ──────────────────────────────────────────────────────
     # Публичный метод
@@ -305,10 +322,10 @@ class Profiler:
             asn_concentration = 0.0
             asn_diversity = 0
 
-        if asn_concentration >= 0.7 and ip_diversity <= 0.4:
+        if asn_concentration >= FIRST_PARTY_ASN_CONCENTRATION and ip_diversity <= FIRST_PARTY_IP_DIVERSITY:
             return "first_party"
 
-        if asn_diversity >= 15 and ip_diversity >= 0.75:
+        if asn_diversity >= AGGREGATOR_MIN_ASN_DIVERSITY and ip_diversity >= AGGREGATOR_MIN_IP_DIVERSITY:
             return "aggregator"
 
         return "unknown"
@@ -329,16 +346,16 @@ class Profiler:
 
         # штраф за мало уникальных IP
         penalty_ips = 0.0
-        if unique_ips < 10:
-            penalty_ips = 0.3
-        elif unique_ips < 50:
-            penalty_ips = 0.1
+        if unique_ips < SCORE_PENALTY_FEW_IPS_THRESHOLD:
+            penalty_ips = SCORE_PENALTY_FEW_IPS
+        elif unique_ips < SCORE_PENALTY_MEDIUM_IPS_THRESHOLD:
+            penalty_ips = SCORE_PENALTY_MEDIUM_IPS
 
         score = (
-            2.0 * eu_share
-            - 3.0 * bad_share
-            + 1.5 * alive_val
-            + 0.2 * math.log1p(total_nodes)
+            SCORE_WEIGHT_EU_SHARE * eu_share
+            + SCORE_WEIGHT_BAD_SHARE * bad_share
+            + SCORE_WEIGHT_ALIVE * alive_val
+            + SCORE_WEIGHT_LOG_NODES * math.log1p(total_nodes)
             - penalty_ips
         )
         score = round(max(score, 0.0), 3)
@@ -347,19 +364,19 @@ class Profiler:
 
         # whitelist_candidate: хороший EU-источник с живыми нодами
         if (
-            eu_share >= 0.7
-            and bad_share <= 0.1
-            and alive_val >= 0.5
+            eu_share >= WHITELIST_MIN_EU_SHARE
+            and bad_share <= WHITELIST_MAX_BAD_SHARE
+            and alive_val >= WHITELIST_MIN_ALIVE_RATIO
             and total_nodes >= self.min_nodes
         ):
             tags.append("whitelist_candidate")
 
         # blacklist_candidate: много плохих стран или почти все ноды мёртвые
-        if bad_share >= 0.5 or (alive_ratio is not None and alive_val <= 0.1):
+        if bad_share >= BLACKLIST_MIN_BAD_SHARE or (alive_ratio is not None and alive_val <= BLACKLIST_MAX_ALIVE_RATIO):
             tags.append("blacklist_candidate")
 
         # large_source: просто крупный источник (полезно для фильтрации в Reporter)
-        if total_nodes >= 500 and unique_ips >= 50:
+        if total_nodes >= LARGE_SOURCE_MIN_NODES and unique_ips >= LARGE_SOURCE_MIN_UNIQUE_IPS:
             tags.append("large_source")
 
         return score, tags

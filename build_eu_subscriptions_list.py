@@ -5,21 +5,15 @@ import sys
 from pathlib import Path
 from typing import List
 
+from scripts.constants import EU_COUNTRIES, KEYS_PER_SUBSCRIPTION
+
 REPO_OWNER = "kort0881"
 REPO_NAME = "vpn-aggregator"
-BRANCH = "main"  # если будешь постить из другой ветки — поменяешь
+BRANCH = "main"
 
 BASE_OUT_BY_COUNTRY = Path("out/by_country")
 SUBS_DIR = Path("out/subs")
 SUBS_LIST_PATH = Path("out/subscriptions_list.txt")
-
-EU_COUNTRIES = [
-    "DE", "NL", "FR", "FI", "SE", "PL", "CZ", "AT", "BE",
-    "DK", "IE", "ES", "IT", "PT", "NO", "CH", "LU", "EE",
-    "LV", "LT",
-]
-
-KEYS_PER_SUB = 100  # по 100 ключей в одной подписке
 
 
 def load_eu_keys() -> List[str]:
@@ -71,7 +65,7 @@ def main() -> int:
         print("❌ Нет EU-ключей — подписки не создаём")
         return 1
 
-    chunks = chunk_keys(keys, KEYS_PER_SUB)
+    chunks = chunk_keys(keys, KEYS_PER_SUBSCRIPTION)
     print(f"📦 Подписок будет создано: {len(chunks)}")
 
     SUBS_DIR.mkdir(parents=True, exist_ok=True)

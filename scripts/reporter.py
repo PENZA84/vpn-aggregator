@@ -14,6 +14,7 @@ from pathlib import Path
 from typing import Dict, List, Tuple
 
 from .parser import VPNNode
+from .constants import REPORTER_MIN_NODES, REPORTER_MIN_UNIQUE_IPS
 
 
 class Reporter:
@@ -66,9 +67,9 @@ class Reporter:
         total_nodes = p.get("total_nodes") or p.get("nodes") or 0
         unique_ips = p.get("unique_ips") or 0
 
-        if total_nodes < 500:
+        if total_nodes < REPORTER_MIN_NODES:
             return False
-        if unique_ips < 50:
+        if unique_ips < REPORTER_MIN_UNIQUE_IPS:
             return False
 
         return True
