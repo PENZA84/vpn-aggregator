@@ -2,45 +2,45 @@
 Total IPs looked up: 5000
 
 ## Top countries
-- XX: 1933
-- DE: 612
-- US: 597
-- NL: 284
-- FR: 266
-- GB: 154
-- IR: 134
-- FI: 126
-- RU: 125
-- SE: 70
-- HK: 58
-- SG: 49
-- LV: 42
-- AT: 40
-- CA: 34
-- LT: 30
-- KR: 28
+- XX: 1995
+- US: 622
+- DE: 599
+- NL: 262
+- FR: 258
+- GB: 149
+- IR: 146
+- RU: 126
+- FI: 89
+- HK: 67
+- SG: 50
+- SE: 48
+- LV: 35
+- AT: 34
+- LT: 33
+- CA: 33
+- KR: 30
 - JP: 25
 - AE: 24
-- PL: 22
+- MD: 22
 
 ## Top ASNs
-- AS13335 Cloudflare, Inc.: 1317
-- AS209242 Cloudflare London, LLC: 440
-- AS24940 Hetzner Online GmbH: 322
-- AS16276 OVH SAS: 265
-- AS54113 Fastly, Inc.: 152
-- AS14061 DigitalOcean, LLC: 94
-- AS210644 Aeza International Ltd: 93
-- AS16509 Amazon.com, Inc.: 87
-- AS209847 WorkTitans B.V.: 74
-- AS31898 Oracle Corporation: 45
+- AS13335 Cloudflare, Inc.: 1362
+- AS209242 Cloudflare London, LLC: 460
+- AS24940 Hetzner Online GmbH: 324
+- AS16276 OVH SAS: 249
+- AS54113 Fastly, Inc.: 154
+- AS16509 Amazon.com, Inc.: 91
+- AS14061 DigitalOcean, LLC: 82
+- AS209847 WorkTitans B.V.: 76
+- AS210644 Aeza International Ltd: 49
 - AS14197 HEALTH MARKET SCIENCE: 44
-- AS28753 Leaseweb Deutschland GmbH: 38
-- AS906 DMIT Cloud Services: 35
-- AS398787 GoDaddy.com, LLC: 33
-- AS205585 Noyan Abr Arvan Co. ( Private Joint Stock): 31
-- AS42532 SIA VEESP: 30
-- AS17289 ULTIMATE SOFTWARE GROUP: 30
+- AS31898 Oracle Corporation: 43
+- AS398787 GoDaddy.com, LLC: 43
+- AS28753 Leaseweb Deutschland GmbH: 37
+- AS906 DMIT Cloud Services: 36
+- AS63949 Akamai Connected Cloud: 33
+- AS205585 Noyan Abr Arvan Co. ( Private Joint Stock): 33
+- AS17289 ULTIMATE SOFTWARE GROUP: 33
 - AS56971 Cgi Global Limited: 26
-- AS12876 Scaleway S.a.s.: 25
-- AS216071 Servers Tech Fzco: 25
+- AS45102 Alibaba US Technology Co., Ltd.: 26
+- AS12876 Scaleway S.a.s.: 24
