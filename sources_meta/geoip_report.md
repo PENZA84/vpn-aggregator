@@ -2,45 +2,45 @@
 Total IPs looked up: 5000
 
 ## Top countries
-- XX: 1874
-- US: 650
-- DE: 579
-- NL: 311
-- FR: 259
-- IR: 148
-- GB: 128
-- RU: 124
-- FI: 92
-- HK: 83
-- CA: 68
-- SE: 56
-- SG: 56
-- KR: 52
-- LV: 48
-- AT: 35
-- LT: 33
-- JP: 25
-- AE: 23
-- MD: 21
+- XX: 2056
+- US: 600
+- DE: 594
+- NL: 254
+- FR: 245
+- IR: 161
+- GB: 137
+- RU: 132
+- FI: 93
+- CA: 74
+- SE: 48
+- SG: 46
+- HK: 38
+- LT: 34
+- LV: 34
+- AT: 32
+- AE: 24
+- PL: 23
+- KZ: 23
+- TR: 21
 
 ## Top ASNs
-- AS13335 Cloudflare, Inc.: 1281
-- AS209242 Cloudflare London, LLC: 454
-- AS24940 Hetzner Online GmbH: 307
-- AS16276 OVH SAS: 253
-- AS54113 Fastly, Inc.: 148
-- AS14061 DigitalOcean, LLC: 94
-- AS16509 Amazon.com, Inc.: 86
-- AS209847 WorkTitans B.V.: 63
-- AS210644 Aeza International Ltd: 54
-- AS31898 Oracle Corporation: 48
-- AS398787 GoDaddy.com, LLC: 45
-- AS205585 Noyan Abr Arvan Co. ( Private Joint Stock): 44
-- AS14197 HEALTH MARKET SCIENCE: 43
-- AS906 DMIT Cloud Services: 37
-- AS28753 Leaseweb Deutschland GmbH: 36
-- AS33039 Unify Media Ltd: 35
+- AS13335 Cloudflare, Inc.: 1419
+- AS209242 Cloudflare London, LLC: 478
+- AS24940 Hetzner Online GmbH: 323
+- AS16276 OVH SAS: 243
+- AS54113 Fastly, Inc.: 164
+- AS14061 DigitalOcean, LLC: 84
+- AS16509 Amazon.com, Inc.: 81
+- AS209847 WorkTitans B.V.: 67
+- AS205585 Noyan Abr Arvan Co. ( Private Joint Stock): 48
+- AS210644 Aeza International Ltd: 46
+- AS14197 HEALTH MARKET SCIENCE: 44
+- AS398787 GoDaddy.com, LLC: 44
+- AS31898 Oracle Corporation: 39
+- AS28753 Leaseweb Deutschland GmbH: 37
+- AS33039 Unify Media Ltd: 37
 - AS17289 ULTIMATE SOFTWARE GROUP: 34
-- AS4766 Korea Telecom: 31
-- AS56971 Cgi Global Limited: 27
-- AS45102 Alibaba US Technology Co., Ltd.: 27
+- AS63949 Akamai Connected Cloud: 25
+- AS12876 Scaleway S.a.s.: 23
+- AS20473 The Constant Company, LLC: 21
+- AS42532 SIA VEESP: 21
