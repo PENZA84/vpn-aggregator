@@ -2,45 +2,45 @@
 Total IPs looked up: 5000
 
 ## Top countries
-- XX: 2005
-- US: 645
-- DE: 603
-- NL: 263
-- FR: 239
-- IR: 185
-- GB: 141
-- RU: 131
-- FI: 79
-- HK: 59
-- SG: 51
-- SE: 43
-- CA: 37
-- LT: 34
-- KR: 30
-- AT: 28
-- AE: 25
-- KZ: 22
+- XX: 2020
+- US: 638
+- DE: 607
+- NL: 268
+- FR: 229
+- IR: 193
+- GB: 144
+- RU: 122
+- FI: 78
+- HK: 56
+- SG: 50
+- SE: 44
+- CA: 36
+- AT: 30
+- KR: 28
+- LT: 26
+- AE: 24
+- JP: 23
+- KZ: 23
 - TR: 22
-- CY: 21
 
 ## Top ASNs
-- AS13335 Cloudflare, Inc.: 1396
-- AS209242 Cloudflare London, LLC: 498
-- AS24940 Hetzner Online GmbH: 333
-- AS16276 OVH SAS: 246
+- AS13335 Cloudflare, Inc.: 1403
+- AS209242 Cloudflare London, LLC: 494
+- AS24940 Hetzner Online GmbH: 334
+- AS16276 OVH SAS: 235
 - AS54113 Fastly, Inc.: 164
-- AS16509 Amazon.com, Inc.: 97
-- AS14061 DigitalOcean, LLC: 89
-- AS205585 Noyan Abr Arvan Co. ( Private Joint Stock): 70
-- AS209847 WorkTitans B.V.: 66
-- AS398787 GoDaddy.com, LLC: 55
+- AS16509 Amazon.com, Inc.: 98
+- AS14061 DigitalOcean, LLC: 92
+- AS205585 Noyan Abr Arvan Co. ( Private Joint Stock): 79
+- AS209847 WorkTitans B.V.: 67
+- AS398787 GoDaddy.com, LLC: 51
 - AS31898 Oracle Corporation: 47
-- AS14197 HEALTH MARKET SCIENCE: 44
-- AS210644 Aeza International Ltd: 39
-- AS28753 Leaseweb Deutschland GmbH: 38
+- AS14197 HEALTH MARKET SCIENCE: 45
+- AS28753 Leaseweb Deutschland GmbH: 37
 - AS17289 ULTIMATE SOFTWARE GROUP: 36
-- AS63949 Akamai Connected Cloud: 26
+- AS210644 Aeza International Ltd: 34
+- AS63949 Akamai Connected Cloud: 28
 - AS12876 Scaleway S.a.s.: 23
-- AS45102 Alibaba US Technology Co., Ltd.: 21
-- AS29085 Porsche Informatik Gesellschaft m.b.H: 20
-- AS215540 Global Connectivity Solutions Llp: 20
+- AS45102 Alibaba US Technology Co., Ltd.: 22
+- AS29085 Porsche Informatik Gesellschaft m.b.H: 21
+- AS32077 ULTIMATE SOFTWARE GROUP: 20
