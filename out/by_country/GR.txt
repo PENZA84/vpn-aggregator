@@ -1,1 +1,1 @@
-vless://0cd15d1b-b117-4f34-9aa1-c14fc5bcdd83@83.147.243.194:30779?security=reality&pbk=HGlfPrJjZ2gttVLLp8-ZVofYK994S-6wUBRRl1m_lFA&sid=7a&fp=chrome&sni=www.oracle.com&type=tcp&headerType=none&path=/&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=83.147.243.194&country=GR&asn=None#US_speednode_0032
+vless://0cd15d1b-b117-4f34-9aa1-c14fc5bcdd83@83.147.243.194:30779?allowInsecure=0&sni=www.oracle.com&fp=chrome&security=tls&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=83.147.243.194&country=GR&asn=None#US_speednode_0032
