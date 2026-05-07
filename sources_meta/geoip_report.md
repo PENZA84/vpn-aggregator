@@ -2,45 +2,45 @@
 Total IPs looked up: 5000
 
 ## Top countries
-- XX: 1962
-- US: 630
+- XX: 1935
 - DE: 595
-- NL: 282
-- FR: 243
-- IR: 191
+- US: 595
+- NL: 302
+- FR: 256
+- IR: 173
 - GB: 146
-- RU: 126
-- FI: 79
-- HK: 61
-- SG: 52
-- SE: 51
-- KR: 46
-- CA: 41
-- LV: 33
-- AT: 30
-- LT: 29
-- CY: 24
+- RU: 122
+- FI: 81
+- SG: 71
+- HK: 65
+- KR: 55
+- SE: 48
+- CA: 43
+- LV: 37
+- AT: 32
+- LT: 28
+- JP: 28
 - AE: 24
 - KZ: 23
 
 ## Top ASNs
-- AS13335 Cloudflare, Inc.: 1368
-- AS209242 Cloudflare London, LLC: 493
-- AS24940 Hetzner Online GmbH: 325
-- AS16276 OVH SAS: 234
-- AS54113 Fastly, Inc.: 160
-- AS14061 DigitalOcean, LLC: 98
+- AS13335 Cloudflare, Inc.: 1340
+- AS209242 Cloudflare London, LLC: 487
+- AS24940 Hetzner Online GmbH: 319
+- AS16276 OVH SAS: 235
+- AS54113 Fastly, Inc.: 158
+- AS14061 DigitalOcean, LLC: 102
 - AS16509 Amazon.com, Inc.: 94
-- AS205585 Noyan Abr Arvan Co. ( Private Joint Stock): 83
-- AS209847 WorkTitans B.V.: 71
-- AS398787 GoDaddy.com, LLC: 52
-- AS31898 Oracle Corporation: 49
+- AS205585 Noyan Abr Arvan Co. ( Private Joint Stock): 67
+- AS209847 WorkTitans B.V.: 60
+- AS56971 Cgi Global Limited: 52
+- AS31898 Oracle Corporation: 50
 - AS14197 HEALTH MARKET SCIENCE: 44
-- AS210644 Aeza International Ltd: 43
+- AS398787 GoDaddy.com, LLC: 44
+- AS210644 Aeza International Ltd: 40
 - AS28753 Leaseweb Deutschland GmbH: 37
 - AS17289 ULTIMATE SOFTWARE GROUP: 36
-- AS56971 Cgi Global Limited: 35
+- AS45102 Alibaba US Technology Co., Ltd.: 33
+- AS4766 Korea Telecom: 33
 - AS63949 Akamai Connected Cloud: 26
-- AS45102 Alibaba US Technology Co., Ltd.: 26
-- AS4766 Korea Telecom: 26
-- AS12876 Scaleway S.a.s.: 24
+- AS12876 Scaleway S.a.s.: 23
