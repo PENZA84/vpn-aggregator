@@ -1,3 +1,2 @@
 vless://1068814a-6d43-40d9-a127-0f6b6b77ccfc@109.61.16.89:30938?source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=109.61.16.89&country=LU&asn=None
 vless://1133fb71-5fd0-4cb1-8a2e-28708dd82f31@45.136.117.8:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=45.136.117.8&country=LU&asn=41111&asn_name=Fast Geo Hosting S.r.l.
-vless://22ebc3ad-2e41-4fb3-acdd-c6269ac9bf81@95.85.95.85:443?encryption=none&security=tls&sni=promo.worldofwarships.com&alpn=h2,http/1.1&fp=chrome&type=ws&host=mamadgamenetcsgoskin2.ir&path=/&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=95.85.95.85&country=LU&asn=199524&asn_name=G-Core Labs S.A.
