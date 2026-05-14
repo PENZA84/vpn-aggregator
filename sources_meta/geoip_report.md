@@ -2,45 +2,45 @@
 Total IPs looked up: 5000
 
 ## Top countries
-- XX: 1931
-- US: 582
-- DE: 565
-- NL: 283
-- RU: 246
-- FR: 243
-- IR: 198
-- GB: 135
+- XX: 2003
+- US: 595
+- DE: 580
+- NL: 285
+- FR: 245
+- IR: 191
+- RU: 176
+- GB: 137
 - FI: 67
-- KR: 67
-- HK: 53
+- HK: 52
 - SG: 51
-- SE: 46
-- CA: 35
-- LT: 34
-- AT: 29
+- SE: 47
+- CA: 36
+- KR: 36
+- AT: 34
+- LT: 30
 - AE: 27
 - KZ: 26
 - LV: 23
-- TR: 23
+- TR: 22
 
 ## Top ASNs
-- AS13335 Cloudflare, Inc.: 1308
-- AS209242 Cloudflare London, LLC: 505
-- AS24940 Hetzner Online GmbH: 280
-- AS16276 OVH SAS: 234
-- AS54113 Fastly, Inc.: 151
-- AS16509 Amazon.com, Inc.: 108
-- AS205585 Noyan Abr Arvan Co. ( Private Joint Stock): 94
+- AS13335 Cloudflare, Inc.: 1357
+- AS209242 Cloudflare London, LLC: 494
+- AS24940 Hetzner Online GmbH: 293
+- AS16276 OVH SAS: 236
+- AS54113 Fastly, Inc.: 166
+- AS16509 Amazon.com, Inc.: 111
 - AS14061 DigitalOcean, LLC: 91
-- AS200350 Yandex.Cloud LLC: 71
-- AS209847 WorkTitans B.V.: 53
-- AS398787 GoDaddy.com, LLC: 49
-- AS4766 Korea Telecom: 48
-- AS31898 Oracle Corporation: 41
+- AS205585 Noyan Abr Arvan Co. ( Private Joint Stock): 78
+- AS209847 WorkTitans B.V.: 54
+- AS398787 GoDaddy.com, LLC: 45
+- AS200350 Yandex.Cloud LLC: 41
 - AS14197 HEALTH MARKET SCIENCE: 41
+- AS210644 Aeza International Ltd: 38
+- AS31898 Oracle Corporation: 37
+- AS17289 ULTIMATE SOFTWARE GROUP: 37
 - AS28753 Leaseweb Deutschland GmbH: 36
-- AS17289 ULTIMATE SOFTWARE GROUP: 36
-- AS210644 Aeza International Ltd: 34
-- AS63949 Akamai Connected Cloud: 26
-- AS49505 JSC Selectel: 22
-- AS29085 Porsche Informatik Gesellschaft m.b.H: 21
+- AS63949 Akamai Connected Cloud: 27
+- AS20473 The Constant Company, LLC: 21
+- AS12876 Scaleway S.a.s.: 21
+- AS29085 Porsche Informatik Gesellschaft m.b.H: 20
