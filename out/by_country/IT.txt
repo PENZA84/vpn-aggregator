@@ -1,1 +1,1 @@
-vless://19ef3d02-1c55-4fec-9794-6def8cbac396@bl3-mwscloud.onnstreaming.ru:443?allowInsecure=0&sni=bl3-mwscloud.onnstreaming.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=45.137.201.7&country=IT&asn=211507&asn_name=Julian Achter#IT_speednode_0007
+vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@OV-Italy1.09vpn.com:80?path=/vless/&encryption=none&type=ws&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=57.131.32.191&country=IT&asn=16276&asn_name=OVH SAS
