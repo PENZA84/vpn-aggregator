@@ -1,2 +1,1 @@
-vless://00c7cd9c-b4ab-42c9-8c2f-48c183eb5997@iranserver.com:443?path=/Telegram:@@Vip_Security&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=91.247.174.1&country=DK&asn=49051&asn_name=GreenHost ApS
 vless://07865379-86dd-4ca6-ad22-81255519c482@Iranserver.com:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&sni=vipv2rey.mamare.ir&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=91.247.174.1&country=DK&asn=49051&asn_name=GreenHost ApS
