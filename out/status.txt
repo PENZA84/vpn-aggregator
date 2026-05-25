@@ -1,9 +1,9 @@
-Last run: 2026-05-24T19:21:16.493277Z
-Parsed nodes: 279215
-With IP (after enrich): 2737
-With country (after GeoIP): 2737
-After filters: 47405
-Source profiles: 103
-Provider profiles: 103
-Top countries: XX:46907, DE:250, FR:128, NL:23, SE:19
+Last run: 2026-05-25T03:54:37.952101Z
+Parsed nodes: 282522
+With IP (after enrich): 2741
+With country (after GeoIP): 2741
+After filters: 48137
+Source profiles: 104
+Provider profiles: 104
+Top countries: XX:47641, DE:249, FR:128, NL:23, SE:19
 Top ASNs: AS16509 Amazon.com, Inc.:224, AS213535 YottaSrc:87, AS24940 Hetzner Online GmbH:44, AS209242 Cloudflare London, LLC:15, AS13335 Cloudflare, Inc.:13
