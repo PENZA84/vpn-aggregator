@@ -3,4 +3,3 @@ https://raw.githubusercontent.com/kort0881/vpn-aggregator/main/out/subs/eu_sub_2
 https://raw.githubusercontent.com/kort0881/vpn-aggregator/main/out/subs/eu_sub_3.txt
 https://raw.githubusercontent.com/kort0881/vpn-aggregator/main/out/subs/eu_sub_4.txt
 https://raw.githubusercontent.com/kort0881/vpn-aggregator/main/out/subs/eu_sub_5.txt
-https://raw.githubusercontent.com/kort0881/vpn-aggregator/main/out/subs/eu_sub_6.txt
