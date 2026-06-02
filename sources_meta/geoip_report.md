@@ -2,45 +2,45 @@
 Total IPs looked up: 5000
 
 ## Top countries
-- XX: 1561
-- RU: 1258
-- DE: 484
-- US: 272
-- IR: 269
-- FR: 186
-- KR: 148
-- SG: 131
-- NL: 121
-- JP: 54
-- GB: 47
+- XX: 1592
+- RU: 1375
+- DE: 487
+- IR: 268
+- US: 245
+- FR: 188
+- SG: 134
+- KR: 115
+- NL: 98
 - SE: 45
 - FI: 43
-- HK: 31
-- CA: 25
-- AE: 22
-- AT: 21
-- SC: 20
-- PL: 19
-- MD: 18
+- GB: 38
+- JP: 33
+- SC: 30
+- AT: 20
+- AE: 20
+- HK: 19
+- PL: 18
+- MD: 17
+- EE: 16
 
 ## Top ASNs
-- AS13335 Cloudflare, Inc.: 831
-- AS200350 Yandex.Cloud LLC: 705
-- AS16509 Amazon.com, Inc.: 488
+- AS13335 Cloudflare, Inc.: 857
+- AS200350 Yandex.Cloud LLC: 789
+- AS16509 Amazon.com, Inc.: 501
 - AS24940 Hetzner Online GmbH: 180
-- AS49505 JSC Selectel: 140
-- AS47764 LLC VK: 117
+- AS49505 JSC Selectel: 145
+- AS47764 LLC VK: 122
 - AS205585 Noyan Abr Arvan Co. ( Private Joint Stock): 113
-- AS213535 YottaSrc: 86
-- AS14061 DigitalOcean, LLC: 83
-- AS54113 Fastly, Inc.: 81
-- AS209242 Cloudflare London, LLC: 78
-- AS204490 Kontel LLC: 38
+- AS213535 YottaSrc: 85
+- AS54113 Fastly, Inc.: 82
+- AS209242 Cloudflare London, LLC: 80
+- AS204490 Kontel LLC: 42
+- AS50340 JSC Selectel: 38
+- AS14061 DigitalOcean, LLC: 36
 - AS215540 Global Connectivity Solutions Llp: 36
-- AS209847 WorkTitans B.V.: 36
-- AS50340 JSC Selectel: 36
-- AS16276 OVH SAS: 32
-- AS4766 Korea Telecom: 31
-- AS210644 Aeza International Ltd: 28
-- AS20473 The Constant Company, LLC: 28
-- AS31898 Oracle Corporation: 28
+- AS209847 WorkTitans B.V.: 33
+- AS16276 OVH SAS: 31
+- AS210644 Aeza International Ltd: 31
+- AS210079 EuroByte LLC: 29
+- AS20473 The Constant Company, LLC: 26
+- AS9123 Jsc timeweb: 26
