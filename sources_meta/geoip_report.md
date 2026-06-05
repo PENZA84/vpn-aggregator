@@ -2,45 +2,45 @@
 Total IPs looked up: 5000
 
 ## Top countries
-- XX: 1510
-- RU: 1431
-- DE: 483
-- IR: 266
-- US: 249
-- FR: 192
-- SG: 156
-- KR: 130
-- NL: 83
-- SE: 48
-- GB: 46
+- RU: 1473
+- XX: 1454
+- DE: 484
+- IR: 269
+- US: 241
+- FR: 195
+- SG: 157
+- KR: 134
+- NL: 87
+- SE: 49
+- GB: 47
 - FI: 43
-- JP: 37
-- HK: 28
-- SC: 26
-- PL: 18
-- AE: 18
+- JP: 38
+- HK: 26
+- SC: 25
+- AE: 22
+- PL: 21
 - AT: 17
 - TR: 16
 - EE: 15
 
 ## Top ASNs
-- AS200350 Yandex.Cloud LLC: 848
-- AS13335 Cloudflare, Inc.: 818
-- AS16509 Amazon.com, Inc.: 546
-- AS24940 Hetzner Online GmbH: 170
-- AS49505 JSC Selectel: 151
-- AS47764 LLC VK: 117
-- AS205585 Noyan Abr Arvan Co. ( Private Joint Stock): 114
-- AS213535 YottaSrc: 86
-- AS209242 Cloudflare London, LLC: 74
-- AS54113 Fastly, Inc.: 69
-- AS204490 Kontel LLC: 44
-- AS50340 JSC Selectel: 39
+- AS200350 Yandex.Cloud LLC: 850
+- AS13335 Cloudflare, Inc.: 764
+- AS16509 Amazon.com, Inc.: 563
+- AS24940 Hetzner Online GmbH: 173
+- AS49505 JSC Selectel: 154
+- AS47764 LLC VK: 124
+- AS205585 Noyan Abr Arvan Co. ( Private Joint Stock): 118
+- AS213535 YottaSrc: 87
+- AS209242 Cloudflare London, LLC: 76
+- AS54113 Fastly, Inc.: 65
+- AS50340 JSC Selectel: 47
+- AS204490 Kontel LLC: 45
+- AS14061 DigitalOcean, LLC: 35
 - AS215540 Global Connectivity Solutions Llp: 35
-- AS14061 DigitalOcean, LLC: 34
+- AS8359 MTS PJSC: 35
+- AS16276 OVH SAS: 31
 - AS209847 WorkTitans B.V.: 31
-- AS8359 MTS PJSC: 31
-- AS20473 The Constant Company, LLC: 30
-- AS16276 OVH SAS: 29
-- AS210644 Aeza International Ltd: 29
-- AS906 DMIT Cloud Services: 29
+- AS9123 Jsc timeweb: 30
+- AS20473 The Constant Company, LLC: 29
+- AS210079 EuroByte LLC: 29
