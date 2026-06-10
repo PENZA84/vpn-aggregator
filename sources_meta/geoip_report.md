@@ -2,45 +2,45 @@
 Total IPs looked up: 5000
 
 ## Top countries
-- RU: 1453
-- XX: 1401
-- DE: 494
-- IR: 257
-- US: 244
-- FR: 221
-- SG: 181
-- KR: 160
-- NL: 82
-- GB: 59
+- RU: 1483
+- XX: 1375
+- DE: 490
+- IR: 247
+- US: 232
+- FR: 227
+- SG: 188
+- KR: 166
+- NL: 81
+- GB: 61
 - SE: 50
-- FI: 40
-- JP: 34
+- FI: 42
+- JP: 33
+- SC: 30
 - HK: 26
-- SC: 24
+- CA: 22
 - PL: 21
-- CA: 21
-- AE: 18
 - AT: 17
-- IE: 15
+- AE: 17
+- IE: 17
 
 ## Top ASNs
-- AS200350 Yandex.Cloud LLC: 841
-- AS13335 Cloudflare, Inc.: 775
-- AS16509 Amazon.com, Inc.: 676
-- AS24940 Hetzner Online GmbH: 164
-- AS49505 JSC Selectel: 136
-- AS205585 Noyan Abr Arvan Co. ( Private Joint Stock): 116
-- AS47764 LLC VK: 114
-- AS213535 YottaSrc: 88
-- AS209242 Cloudflare London, LLC: 81
-- AS54113 Fastly, Inc.: 62
-- AS50340 JSC Selectel: 52
-- AS204490 Kontel LLC: 44
+- AS200350 Yandex.Cloud LLC: 864
+- AS13335 Cloudflare, Inc.: 770
+- AS16509 Amazon.com, Inc.: 705
+- AS24940 Hetzner Online GmbH: 157
+- AS49505 JSC Selectel: 134
+- AS47764 LLC VK: 117
+- AS205585 Noyan Abr Arvan Co. ( Private Joint Stock): 109
+- AS213535 YottaSrc: 89
+- AS209242 Cloudflare London, LLC: 82
+- AS54113 Fastly, Inc.: 56
+- AS50340 JSC Selectel: 53
+- AS210079 EuroByte LLC: 38
 - AS16276 OVH SAS: 37
-- AS8359 MTS PJSC: 36
-- AS3175 Citytelecom LLC: 36
-- AS14061 DigitalOcean, LLC: 35
-- AS215540 Global Connectivity Solutions Llp: 35
+- AS204490 Kontel LLC: 37
+- AS14061 DigitalOcean, LLC: 34
 - AS20473 The Constant Company, LLC: 34
+- AS8359 MTS PJSC: 34
+- AS215540 Global Connectivity Solutions Llp: 33
 - AS9123 Jsc timeweb: 30
-- AS906 DMIT Cloud Services: 29
+- AS3175 Citytelecom LLC: 30
