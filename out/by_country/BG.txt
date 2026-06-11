@@ -1,1 +1,2 @@
 vless://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443?source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=95.164.6.214&country=BG&asn=209847&asn_name=WorkTitans B.V.
+vless://039a1658-e86e-475f-a3a4-67cc249acada@45.150.111.174:443?flow=xtls-rprx-vision&fp=firefox&pbk=2EoMRBfJ9hxldXLTGih0gIk5dF38qjqHAqTzzKiSWQw&security=reality&sid=370796f491f38876&sni=bg1.panel11.ru&type=tcp&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=45.150.111.174&country=BG&asn=200019&asn_name=Alexhost Srl
