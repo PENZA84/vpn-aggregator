@@ -1,2 +1,5 @@
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.251.81.251:8880?source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=185.251.81.251&country=ES&asn=13335&asn_name=Cloudflare, Inc.
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.251.83.251:8880?source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=185.251.83.251&country=ES&asn=834&asn_name=IPXO LLC
+vless://01bda09b-f79a-4e47-b903-acaae59ebfee@185.147.27.105:80?encryption=none&type=ws&security=none&path=/&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=185.147.27.105&country=ES&asn=34959&asn_name=Kviktel LLC
+vless://01bda09b-f79a-4e47-b903-acaae59ebfee@hentai-cdn.apruxdomain.xyz:80?type=ws&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=185.147.27.105&country=ES&asn=34959&asn_name=Kviktel LLC
+vless://027266f2-bec4-4ef2-ba4f-0627e6032557@hentai-cdn.apruxdomain.xyz:80?type=ws&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=185.147.27.105&country=ES&asn=34959&asn_name=Kviktel LLC
