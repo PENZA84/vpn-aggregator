@@ -16,3 +16,4 @@ vless://00cba2b0-3c3a-45e7-a9de-7004676d3169@45.131.4.246:443?mode=auto&path=/Jy
 vless://01204ab3-b16f-4377-a5fe-ee12bfa685b3@141.11.250.208:443?alpn=h2,http/1.1&encryption=none&fp=chrome&security=tls&sni=141.11.250.208&type=tcp&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=141.11.250.208&country=NL&asn=43350&asn_name=NForce Entertainment B.V.
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@188.164.248.251:8880?source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=188.164.248.251&country=NL&asn=209242&asn_name=Cloudflare London, LLC
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@194.152.44.251:8880?source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=194.152.44.251&country=NL&asn=209242&asn_name=Cloudflare London, LLC
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@45.149.12.251:8880?source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=45.149.12.251&country=NL&asn=209242&asn_name=Cloudflare London, LLC
