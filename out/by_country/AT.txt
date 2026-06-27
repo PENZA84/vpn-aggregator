@@ -1,1 +1,2 @@
 vless://00000000-0000-4000-8000-000000000000@152.53.178.240:8445?security=tls&sni=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&type=ws&headerType=none&host=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&path=/@Marisa_kristifp=chrome&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=152.53.178.240&country=AT&asn=197540&asn_name=netcup GmbH
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@212.183.88.251:8880?source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=212.183.88.251&country=AT&asn=29085&asn_name=Porsche Informatik Gesellschaft m.b.H
