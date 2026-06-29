@@ -5,5 +5,3 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@de1-40.466688.xyz:80?source_name=ar
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@de1-42.466688.xyz:80?source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=151.101.134.151&country=ES&asn=54113&asn_name=Fastly, Inc.
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@de1-46.466688.xyz:80?source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=151.101.135.151&country=ES&asn=54113&asn_name=Fastly, Inc.
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@de1-49.466688.xyz:80?source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=151.101.132.151&country=ES&asn=54113&asn_name=Fastly, Inc.
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.251.81.251:8880?source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=185.251.81.251&country=ES&asn=13335&asn_name=Cloudflare, Inc.
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.251.83.251:8880?source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=185.251.83.251&country=ES&asn=834&asn_name=IPXO LLC
