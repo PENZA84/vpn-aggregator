@@ -2,45 +2,45 @@
 Total IPs looked up: 5000
 
 ## Top countries
-- RU: 1784
-- XX: 1194
-- DE: 582
-- FR: 300
+- RU: 1805
+- XX: 1170
+- DE: 585
+- FR: 302
 - US: 246
-- IR: 212
-- NL: 83
+- IR: 211
+- NL: 81
+- SG: 64
 - GB: 61
-- SG: 59
-- FI: 52
-- SC: 46
-- SE: 44
-- AE: 34
+- FI: 50
+- SC: 45
+- SE: 40
+- AE: 39
 - HK: 28
-- CA: 24
+- CA: 25
 - IE: 21
 - TR: 19
 - JP: 17
-- AT: 16
-- PL: 14
+- PL: 15
+- AT: 14
 
 ## Top ASNs
-- AS200350 Yandex.Cloud LLC: 961
-- AS13335 Cloudflare, Inc.: 634
-- AS16509 Amazon.com, Inc.: 573
-- AS24940 Hetzner Online GmbH: 192
-- AS49505 JSC Selectel: 175
-- AS47764 LLC VK: 153
+- AS200350 Yandex.Cloud LLC: 955
+- AS13335 Cloudflare, Inc.: 612
+- AS16509 Amazon.com, Inc.: 580
+- AS24940 Hetzner Online GmbH: 195
+- AS49505 JSC Selectel: 174
+- AS47764 LLC VK: 160
 - AS205585 Noyan Abr Arvan Co. ( Private Joint Stock): 103
 - AS213535 YottaSrc: 89
-- AS54113 Fastly, Inc.: 84
+- AS54113 Fastly, Inc.: 82
 - AS209242 Cloudflare London, LLC: 75
-- AS3175 Citytelecom LLC: 62
-- AS210079 EuroByte LLC: 57
-- AS50340 JSC Selectel: 48
-- AS204490 Kontel LLC: 43
-- AS16276 OVH SAS: 34
+- AS3175 Citytelecom LLC: 68
+- AS210079 EuroByte LLC: 58
+- AS50340 JSC Selectel: 49
+- AS204490 Kontel LLC: 49
+- AS16276 OVH SAS: 33
 - AS14061 DigitalOcean, LLC: 33
-- AS198610 Beget LLC: 31
 - AS8359 MTS PJSC: 30
 - AS9123 Jsc timeweb: 30
-- AS210644 Aeza International Ltd: 29
+- AS198610 Beget LLC: 30
+- AS34879 OOO Sovremennye setevye tekhnologii: 28
