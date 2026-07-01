@@ -2,45 +2,45 @@
 Total IPs looked up: 5000
 
 ## Top countries
-- RU: 1806
-- XX: 1148
-- DE: 593
-- FR: 305
-- US: 263
-- IR: 209
-- NL: 84
-- GB: 61
-- SG: 58
-- FI: 50
-- SC: 44
-- AE: 41
-- SE: 39
+- RU: 1774
+- XX: 1130
+- DE: 608
+- FR: 311
+- US: 262
+- IR: 206
+- NL: 98
+- GB: 69
+- SG: 59
+- FI: 52
+- SC: 46
+- SE: 42
+- AE: 42
 - HK: 28
-- CA: 25
+- CA: 26
 - IE: 21
 - TR: 19
-- PL: 15
-- JP: 15
+- PL: 16
+- JP: 16
 - AT: 14
 
 ## Top ASNs
-- AS200350 Yandex.Cloud LLC: 948
-- AS13335 Cloudflare, Inc.: 597
-- AS16509 Amazon.com, Inc.: 589
-- AS24940 Hetzner Online GmbH: 200
-- AS49505 JSC Selectel: 177
-- AS47764 LLC VK: 157
-- AS205585 Noyan Abr Arvan Co. ( Private Joint Stock): 102
+- AS200350 Yandex.Cloud LLC: 938
+- AS13335 Cloudflare, Inc.: 599
+- AS16509 Amazon.com, Inc.: 597
+- AS24940 Hetzner Online GmbH: 202
+- AS49505 JSC Selectel: 166
+- AS47764 LLC VK: 150
+- AS205585 Noyan Abr Arvan Co. ( Private Joint Stock): 99
 - AS213535 YottaSrc: 86
-- AS209242 Cloudflare London, LLC: 84
-- AS54113 Fastly, Inc.: 83
+- AS54113 Fastly, Inc.: 82
+- AS209242 Cloudflare London, LLC: 82
 - AS3175 Citytelecom LLC: 67
-- AS210079 EuroByte LLC: 59
+- AS14061 DigitalOcean, LLC: 65
+- AS210079 EuroByte LLC: 58
+- AS204490 Kontel LLC: 50
 - AS50340 JSC Selectel: 48
-- AS204490 Kontel LLC: 48
-- AS14061 DigitalOcean, LLC: 41
-- AS16276 OVH SAS: 33
-- AS198610 Beget LLC: 30
-- AS214822 Mt Finance LLC: 30
+- AS16276 OVH SAS: 38
+- AS214822 Mt Finance LLC: 34
 - AS8359 MTS PJSC: 29
-- AS9123 Jsc timeweb: 29
+- AS34879 OOO Sovremennye setevye tekhnologii: 29
+- AS198610 Beget LLC: 28
