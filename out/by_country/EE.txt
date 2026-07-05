@@ -1,1 +1,1 @@
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.159.247.251:8880?source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=185.159.247.251&country=EE&asn=209242&asn_name=Cloudflare London, LLC
+vless://00bc53ff-c447-42fd-8b85-1843985e729a@ee1.fixpr.top:443?flow=xtls-rprx-vision&sni=ee1.fixpr.top&security=reality&pbk=dJdp55YwY9Gnb3fp8IbjFkvomIEV1HXtrXc-AJIGOx8&sid=ac4c53a3ff6613e1&spx=/&fp=chrome&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=185.215.184.29&country=EE&asn=202759&asn_name=RJ Network OU
