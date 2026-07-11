@@ -2,45 +2,45 @@
 Total IPs looked up: 5000
 
 ## Top countries
-- XX: 2267
-- RU: 479
-- DE: 458
-- US: 429
-- NL: 171
-- FR: 163
-- SC: 111
-- IR: 106
-- SE: 81
-- FI: 80
-- SG: 79
-- GB: 77
-- KR: 52
-- PL: 35
-- TR: 26
+- XX: 2210
+- RU: 618
+- DE: 445
+- US: 439
+- FR: 161
+- NL: 146
+- IR: 111
+- SC: 109
+- SG: 83
+- GB: 73
+- FI: 68
+- SE: 67
+- KR: 61
+- AE: 34
+- PL: 31
 - HK: 26
-- AE: 26
-- JP: 24
-- RO: 23
-- LT: 17
+- JP: 22
+- TR: 16
+- IT: 15
+- LT: 15
 
 ## Top ASNs
-- AS13335 Cloudflare, Inc.: 1337
-- AS24940 Hetzner Online GmbH: 275
-- AS16509 Amazon.com, Inc.: 242
-- AS209242 Cloudflare London, LLC: 202
-- AS54113 Fastly, Inc.: 135
-- AS200350 Yandex.Cloud LLC: 98
-- AS14061 DigitalOcean, LLC: 90
-- AS16276 OVH SAS: 75
-- AS34879 OOO Sovremennye setevye tekhnologii: 57
+- AS13335 Cloudflare, Inc.: 1284
+- AS16509 Amazon.com, Inc.: 260
+- AS24940 Hetzner Online GmbH: 259
+- AS209242 Cloudflare London, LLC: 200
+- AS200350 Yandex.Cloud LLC: 142
+- AS54113 Fastly, Inc.: 137
+- AS14061 DigitalOcean, LLC: 89
+- AS16276 OVH SAS: 76
+- AS34879 OOO Sovremennye setevye tekhnologii: 74
 - AS36352 HostPapa: 57
-- AS60068 Datacamp Limited: 56
-- AS47764 LLC VK: 48
-- AS209847 WorkTitans B.V.: 44
-- AS210644 Aeza International Ltd: 42
-- AS201907 TOV Bitiora: 36
-- AS49505 JSC Selectel: 26
-- AS198610 Beget LLC: 25
-- AS31898 Oracle Corporation: 22
-- AS216334 New Hosting Technologies LLC: 21
-- AS3175 Citytelecom LLC: 20
+- AS201907 TOV Bitiora: 57
+- AS49505 JSC Selectel: 52
+- AS47764 LLC VK: 50
+- AS209847 WorkTitans B.V.: 43
+- AS210644 Aeza International Ltd: 39
+- AS216334 New Hosting Technologies LLC: 32
+- AS210079 EuroByte LLC: 30
+- AS60490 MTS PJSC: 29
+- AS198610 Beget LLC: 28
+- AS31898 Oracle Corporation: 21
