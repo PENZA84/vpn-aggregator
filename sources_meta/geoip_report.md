@@ -2,45 +2,45 @@
 Total IPs looked up: 5000
 
 ## Top countries
-- XX: 2133
-- RU: 790
-- US: 470
-- DE: 422
-- FR: 145
-- NL: 135
-- SG: 105
-- IR: 102
-- KR: 85
-- GB: 71
-- FI: 67
-- SE: 60
-- AE: 42
-- PL: 31
-- SC: 29
+- XX: 2049
+- RU: 873
+- US: 492
+- DE: 405
+- FR: 146
+- NL: 131
+- SG: 109
+- IR: 94
+- KR: 92
+- GB: 81
+- FI: 63
+- SE: 57
+- AE: 47
+- PL: 29
+- SC: 28
 - HK: 26
-- JP: 21
-- TR: 16
-- RO: 14
+- JP: 23
+- TR: 15
 - MD: 14
+- RO: 13
 
 ## Top ASNs
-- AS13335 Cloudflare, Inc.: 1212
-- AS16509 Amazon.com, Inc.: 302
-- AS24940 Hetzner Online GmbH: 249
-- AS200350 Yandex.Cloud LLC: 182
-- AS209242 Cloudflare London, LLC: 175
-- AS54113 Fastly, Inc.: 124
-- AS36352 HostPapa: 90
-- AS14061 DigitalOcean, LLC: 87
-- AS49505 JSC Selectel: 85
-- AS34879 OOO Sovremennye setevye tekhnologii: 83
-- AS201907 TOV Bitiora: 76
-- AS47764 LLC VK: 69
-- AS16276 OVH SAS: 58
-- AS216334 New Hosting Technologies LLC: 50
-- AS210079 EuroByte LLC: 44
-- AS60490 MTS PJSC: 39
-- AS209847 WorkTitans B.V.: 38
-- AS210644 Aeza International Ltd: 33
-- AS198610 Beget LLC: 31
-- AS204720 Global Cloud Network LLC: 27
+- AS13335 Cloudflare, Inc.: 1167
+- AS16509 Amazon.com, Inc.: 306
+- AS24940 Hetzner Online GmbH: 241
+- AS200350 Yandex.Cloud LLC: 205
+- AS209242 Cloudflare London, LLC: 171
+- AS54113 Fastly, Inc.: 119
+- AS49505 JSC Selectel: 110
+- AS36352 HostPapa: 102
+- AS14061 DigitalOcean, LLC: 93
+- AS201907 TOV Bitiora: 89
+- AS34879 OOO Sovremennye setevye tekhnologii: 84
+- AS47764 LLC VK: 68
+- AS16276 OVH SAS: 57
+- AS216334 New Hosting Technologies LLC: 56
+- AS60490 MTS PJSC: 55
+- AS210079 EuroByte LLC: 45
+- AS209847 WorkTitans B.V.: 34
+- AS198610 Beget LLC: 32
+- AS210644 Aeza International Ltd: 31
+- AS215013 Yandex.Cloud LLC: 31
