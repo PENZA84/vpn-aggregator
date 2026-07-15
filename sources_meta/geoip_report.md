@@ -2,45 +2,45 @@
 Total IPs looked up: 5000
 
 ## Top countries
-- XX: 2049
-- RU: 873
-- US: 492
-- DE: 405
-- FR: 146
-- NL: 131
-- SG: 109
-- IR: 94
-- KR: 92
-- GB: 81
-- FI: 63
-- SE: 57
-- AE: 47
-- PL: 29
-- SC: 28
-- HK: 26
-- JP: 23
-- TR: 15
-- MD: 14
-- RO: 13
+- DE: 1359
+- FR: 1187
+- XX: 1162
+- RU: 266
+- US: 195
+- NL: 121
+- SE: 112
+- IR: 81
+- FI: 76
+- GB: 73
+- CZ: 41
+- IE: 34
+- SC: 33
+- HK: 32
+- CA: 30
+- TR: 17
+- AE: 16
+- PL: 14
+- SG: 12
+- AT: 11
 
 ## Top ASNs
-- AS13335 Cloudflare, Inc.: 1167
-- AS16509 Amazon.com, Inc.: 306
-- AS24940 Hetzner Online GmbH: 241
-- AS200350 Yandex.Cloud LLC: 205
-- AS209242 Cloudflare London, LLC: 171
-- AS54113 Fastly, Inc.: 119
-- AS49505 JSC Selectel: 110
-- AS36352 HostPapa: 102
-- AS14061 DigitalOcean, LLC: 93
-- AS201907 TOV Bitiora: 89
-- AS34879 OOO Sovremennye setevye tekhnologii: 84
-- AS47764 LLC VK: 68
-- AS16276 OVH SAS: 57
-- AS216334 New Hosting Technologies LLC: 56
-- AS60490 MTS PJSC: 55
-- AS210079 EuroByte LLC: 45
-- AS209847 WorkTitans B.V.: 34
-- AS198610 Beget LLC: 32
+- AS16509 Amazon.com, Inc.: 2157
+- AS13335 Cloudflare, Inc.: 566
+- AS24940 Hetzner Online GmbH: 283
+- AS14061 DigitalOcean, LLC: 135
+- AS54113 Fastly, Inc.: 86
+- AS209242 Cloudflare London, LLC: 76
+- AS16276 OVH SAS: 72
+- AS60490 MTS PJSC: 50
+- AS200350 Yandex.Cloud LLC: 42
+- AS24806 INTERNET CZ, a.s.: 38
 - AS210644 Aeza International Ltd: 31
-- AS215013 Yandex.Cloud LLC: 31
+- AS49505 JSC Selectel: 30
+- AS34879 OOO Sovremennye setevye tekhnologii: 29
+- AS209847 WorkTitans B.V.: 27
+- AS47764 LLC VK: 26
+- AS20473 The Constant Company, LLC: 25
+- AS398478 PEG TECH INC: 23
+- AS17561 LARUS Limited: 21
+- AS14618 Amazon.com, Inc.: 19
+- AS63949 Akamai Connected Cloud: 16
