@@ -1,35 +1,5 @@
-vless://b61f440d-2fdf-4232-8779-0f618b146efc@85.155.230.242:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=c4Mg3v790FPQbXO8uBoJysJYdFFJPhOw2TlnzC45a1U&sni=1013a--ma--8935--cp199.stbid.ru&source_name=kwinshadow_mix&provider_id=kwinshadow_mix&ip=85.155.230.242&country=PL&asn=207567&asn_name=Intezio Worldwide Limited#INT🌍
-ss://WVdWekxUSTFOaTFqWm1JNldrVlVOVGxNUmpaRWRrTkRPRXRXZEE6@217.30.10.70:9005#@Filter_breaker (45)
-ss://WVdWekxUSTFOaTFqWm1JNlZGQnhXRGhsWkdkaVFWVlNZMEZOWWc6@217.30.10.70:9079#hamedp71-🏁-73
-ss://WVdWekxUSTFOaTFqWm1JNlNtUnRVa3M1WjAxRmNVWm5jemh1VUE6@217.30.10.70:9003#@Filter_breaker (40)
-ss://WVdWekxUSTFOaTFqWm1JNlRUTjBNbHBGVVdOTlIxSlhRbXBTWVE6@217.30.10.70:9011#@Filter_breaker (41)
-ss://WVdWekxUSTFOaTFqWm1JNmNrNUNaazUxZFVGT1JrTkJhemRMUWc6@217.30.10.70:9056#@Filter_breaker (51)
-ss://WVdWekxUSTFOaTFqWm1JNmRXVk1XRlpyZG1nMGFHTnJhRVZ5VVE6@217.30.10.70:9060#@Filter_breaker (53)
-ss://WVdWekxUSTFOaTFuWTIwNldUWlNPWEJCZEhaNGVIcHRSME06@92.118.205.211:5600#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:45.28ms
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@31.169.126.66:443?source_name=lalatina_mineral_nodes&provider_id=lalatina_mineral_nodes&ip=31.169.126.66&country=PL&asn=41745&asn_name=Baykov Ilya Sergeevich#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:45.47ms
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@95.85.253.109:8443?source_name=lalatina_mineral_nodes&provider_id=lalatina_mineral_nodes&ip=95.85.253.109&country=PL&asn=209693&asn_name=Oc Networks Limited#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:41.08ms
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?source_name=lalatina_mineral_nodes&provider_id=lalatina_mineral_nodes&ip=83.168.71.216&country=PL&asn=35179&asn_name=Korbank S. A.#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Wroclaw (Fabryczna)🅿️ping:55.47ms
-vless://47ec2037-4d21-453b-9c10-0c827ce998a8@64.176.73.210:15667?source_name=lalatina_mineral_nodes&provider_id=lalatina_mineral_nodes&ip=64.176.73.210&country=PL&asn=20473&asn_name=The Constant Company, LLC#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:36ms
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@148.253.210.248:443?source_name=lalatina_mineral_nodes&provider_id=lalatina_mineral_nodes&ip=148.253.210.248&country=PL&asn=216129&asn_name=SEBEK sp. z o.o#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:32.81ms
-vless://9fb2d0b1-171b-45c0-aae3-3313a73cba29@193.247.82.40:448?source_name=lalatina_mineral_nodes&provider_id=lalatina_mineral_nodes&ip=193.247.82.40&country=PL&asn=57043&asn_name=Hostkey B.v.#⛳93@oneclickvpnkeys
-ss://WVdWekxUSTFOaTFqWm1JNllVeHdVWFJtUlZwbE5EUTFVWGxJYXc6@217.30.10.70:9098#@Filter_breaker (46)
-ss://WVdWekxUSTFOaTFqWm1JNll6Tk9kRWhLTlhWcVZqSjBSMFJtYWc6@217.30.10.70:9084#@Filter_breaker (47)
-ss://WVdWekxUSTFOaTFqWm1JNlpqaHVjRXRuVG5wa2EzTnpNbmwwYmc6@217.30.10.70:9088#@Filter_breaker (48)
-ss://WVdWekxUSTFOaTFqWm1JNlJrYzFaR1JNYzAxUVlsWTFRM1YwUlE6@217.30.10.70:9050#hamedp71-🏁-45
-ss://WVdWekxUSTFOaTFqWm1JNlJrRmtWWFpOU2xWeE5YWkVaMHRGY1E6@217.30.10.70:9006#hamedp71-🏁-64
-vless://c8e4a7ee-07da-4d61-aed9-634b9714bb6e@57.128.240.247:35306?source_name=lalatina_mineral_nodes&provider_id=lalatina_mineral_nodes&ip=57.128.240.247&country=PL&asn=16276&asn_name=OVH SAS#🐚58@oneclickvpnkeys
-ss://WVdWekxUSTFOaTFqWm1JNlUyNDFRamRxVkhGeU56WmhRMHBVT0E6@217.30.10.70:9097#🇵🇱PL-217.30.10.70-0381
-vless://6f99ed2f-9879-40e3-b5b4-5590c60f8e4a@82.26.91.244:443?source_name=lalatina_mineral_nodes&provider_id=lalatina_mineral_nodes&ip=82.26.91.244&country=PL&asn=57043&asn_name=Hostkey B.v.#🐏44@oneclickvpnkeys
-vless://980231fb-4372-5c81-b696-20aa34d33af0@148.253.211.237:443?source_name=lalatina_mineral_nodes&provider_id=lalatina_mineral_nodes&ip=148.253.211.237&country=PL&asn=216129&asn_name=SEBEK sp. z o.o#🦄97@oneclickvpnkeys
-ss://WVdWekxUSTFOaTFqWm1JNlZWUktRVFUzZVhCck1saExVWEJ1YlE6@217.30.10.70:9033#@Filter_breaker (43)
-ss://WVdWekxUSTFOaTFqWm1JNlZXdFlVbk5ZZGxJMlluVkVUVWN5V1E6@217.30.10.70:9001#@Filter_breaker (44)
-ss://WVdWekxUSTFOaTFqWm1JNmExTlFiWFozWkVaNlIwMU5WelZ3V1E6@217.30.10.70:9007#@Filter_breaker (50)
-vless://980231fb-4372-5c81-b696-20aa34d33af0@swe-8t.freeonline.pro:443?source_name=lalatina_mineral_nodes&provider_id=lalatina_mineral_nodes&ip=148.253.211.237&country=PL&asn=216129&asn_name=SEBEK sp. z o.o#->SE+(@DeamNet_Proxy) (4)
-ss://WVdWekxUSTFOaTFqWm1JNlMyNUtSMkZrTTBaeFZIWnFjV0poV0E6@217.30.10.70:9014#@Filter_breaker (39)
-ss://WVdWekxUSTFOaTFqWm1JNlV6ZExkMVYxTjNsQ2VUVTRVek5IWVE6@217.30.10.70:9042#@Filter_breaker (42)
-ss://WVdWekxUSTFOaTFqWm1JNlltWTNkak16TkV0TFJGWXpXVVJvU0E6@217.30.10.70:9070#hamedp71-🏁-61
-vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?source_name=lalatina_mineral_nodes&provider_id=lalatina_mineral_nodes&ip=128.204.223.94&country=PL&asn=57367&asn_name=Atman Sp. z o.o.#@v2rayNplus (2)
-vless://7a5cd520-f42a-5190-802f-d2cf86772c95@193.200.16.127:2052?source_name=lalatina_mineral_nodes&provider_id=lalatina_mineral_nodes&ip=193.200.16.127&country=PL&asn=62005&asn_name=BlueVPS OU#@W570W (1)
-vless://0d27f12d-1632-5662-bdbf-5ac93eed5171@82.22.40.175:8443?source_name=lalatina_mineral_nodes&provider_id=lalatina_mineral_nodes&ip=82.22.40.175&country=PL&asn=49791&asn_name=Newserverlife LLC#@nekopingbot_6655
-vless://980231fb-4372-5c81-b696-20aa34d33af0@148.253.211.47:443?source_name=lalatina_mineral_nodes&provider_id=lalatina_mineral_nodes&ip=148.253.211.47&country=PL&asn=216129&asn_name=SEBEK sp. z o.o#🫒87@oneclickvpnkeys
-ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@217.30.10.18:9011#@V2ray_Collector
+vless://%618%6510cc2-3d%650-4558-b303-bfb%612%615919b3@146.59.116.149:24881?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=146.59.116.149&country=PL&asn=16276&asn_name=OVH SAS
+vless://00b66c41-747e-4f74-adb7-c33f6b0a70ec@pl.onetserv.lol:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6I6-qYlY6rUY4BowDZzHpdfVPy6KvO4c2KC5QK3dMGQ&security=reality&sid=6af4b1c3&sni=deepl.com&type=tcp&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=95.85.254.148&country=PL&asn=209693&asn_name=Oc Networks Limited
+vless://012a1d49-1352-47ce-8bdd-f4afffcd0faf@64.176.64.31:51122?path=wss51122&security=none&encryption=none&type=ws&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=64.176.64.31&country=PL&asn=20473&asn_name=The Constant Company, LLC
+vless://02cd5551-37c2-4a8b-ae3c-09110ae2ea3b@54.38.136.47:80?security=none&encryption=none&headerType=none&type=tcp&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=54.38.136.47&country=PL&asn=16276&asn_name=OVH SAS
+vless://03f4e625-e25e-4beb-93bd-8f275d3717e1@dash.sharkjoy.org:8443?security=reality&encryption=none&pbk=cwv1Dx-yuL6RRl0kLQfJEwH6ZWS2GadbVYPEtNMXxHQ&headerType=none&fp=chrome&spx=/JdTQds5lWLgo2ib&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=0d&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=82.22.41.237&country=PL&asn=49791&asn_name=Newserverlife LLC

@@ -1,1 +1,1 @@
-vless://63a16ebb-8687-42ac-972a-5914cafad1d5@94.131.16.12:443?security=reality&encryption=none&pbk=Re4bwcu3tj9zJQlIQDm_kJ1MPvGH5WxUGroE2ZvxeDI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=abc431&source_name=mahdid_taheri_v2raycollector_mix&provider_id=mahdid_taheri_v2raycollector_mix&ip=94.131.16.12&country=GR&asn=8254&asn_name=Green Floid LLC#@v2rayng3
+vless://028b87c5-f8cc-477e-95e9-33db5498501f@31.22.116.26:2053?source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=31.22.116.26&country=GR&asn=None

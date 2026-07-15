@@ -1,9 +1,9 @@
-Last run: 2026-07-14T19:43:50.032748Z
-Parsed nodes: 890011
-With IP (after enrich): 2932
-With country (after GeoIP): 2932
-After filters: 113228
-Source profiles: 96
-Provider profiles: 96
-Top countries: XX:112537, DE:186, NL:123, FR:98, IT:71
-Top ASNs: AS24940 Hetzner Online GmbH:87, AS12876 Scaleway S.a.s.:73, AS16276 OVH SAS:70, AS16509 Amazon.com, Inc.:60, AS25198 Interkvm Host Srl:56
+Last run: 2026-07-15T02:31:38.373554Z
+Parsed nodes: 1199984
+With IP (after enrich): 2564
+With country (after GeoIP): 2564
+After filters: 115348
+Source profiles: 98
+Provider profiles: 98
+Top countries: XX:114826, DE:216, SE:65, FI:53, FR:49
+Top ASNs: AS24940 Hetzner Online GmbH:180, AS13335 Cloudflare, Inc.:67, AS14061 DigitalOcean, LLC:35, AS16276 OVH SAS:31, AS24806 INTERNET CZ, a.s.:25
