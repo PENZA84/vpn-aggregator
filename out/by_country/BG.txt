@@ -1,1 +1,1 @@
-vless://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443?source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=95.164.6.214&country=BG&asn=209847&asn_name=WorkTitans B.V.
+vless://01f8121f-0fca-484a-bbf4-52b7c2f0cd82@45.128.235.44:443?type=grpc&mode=gun&serviceName=grpc-api-v2&security=reality&fp=firefox&sni=www.amd.com&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&sid=635a76c25a4b1820&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=45.128.235.44&country=BG&asn=None
