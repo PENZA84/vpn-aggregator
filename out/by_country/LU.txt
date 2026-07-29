@@ -1,1 +1,2 @@
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.42.89.157:443?path=/&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=188.42.89.157&country=LU&asn=209242&asn_name=Cloudflare London, LLC
+vless://1068814a-6d43-40d9-a127-0f6b6b77ccfc@109.61.16.89:30938?source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=109.61.16.89&country=LU&asn=None
