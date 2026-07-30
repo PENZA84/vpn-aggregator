@@ -6,3 +6,4 @@ vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.223.98:443?security=reality&
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@de.vrsvpn.com:443?source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=93.152.223.98&country=BG&asn=None
 vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@91.92.21.82:2083?source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=91.92.21.82&country=BG&asn=None
 vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@pol2.neobo-tooth.ru:2083?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=91.92.21.82&country=BG&asn=None
+vless://11113f77-b439-4911-a8dd-414d2ee36b59@pl.mifbot.pro:49000?source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless&ip=178.215.239.71&country=BG&asn=None
